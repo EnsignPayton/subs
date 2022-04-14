@@ -1,0 +1,638 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.75,0:00:05.70,Default,,0,0,0,,Momo?
+Dialogue: 0,0:00:05.70,0:00:09.37,Default,,0,0,0,,It seems... I really was\Nyour mortal enemy this whole time.
+Dialogue: 0,0:00:10.41,0:00:11.70,Default,,0,0,0,,I'm going home now.
+Dialogue: 0,0:00:11.70,0:00:12.79,Default,,0,0,0,,Momo!
+Dialogue: 0,0:00:17.66,0:00:18.70,Default,,0,0,0,,Momo...
+Dialogue: 0,0:00:23.20,0:00:25.45,Default,,0,0,0,,Dad was sealed away...
+Dialogue: 0,0:00:25.66,0:00:27.20,Default,,0,0,0,,I'm sorry that I never told you.
+Dialogue: 0,0:00:27.41,0:00:29.75,Default,,0,0,0,,Because you're so frail,\NI was afraid that burdening you with all this
+Dialogue: 0,0:00:29.75,0:00:32.70,Default,,0,0,0,,might cause you to work yourself ragged\Nand eventually fall apart.
+Dialogue: 0,0:00:33.12,0:00:36.00,Default,,0,0,0,,Now that you've awakened your Demon powers,\Nyou need to become strong
+Dialogue: 0,0:00:36.00,0:00:39.29,Default,,0,0,0,,in order to protect yourself\Nif you want to pave a path into the future.
+Dialogue: 0,0:00:39.79,0:00:43.54,Default,,0,0,0,,But it was terribly insincere of me to pressure you\Nto do your best, without telling you the whole truth.
+Dialogue: 0,0:00:44.00,0:00:47.37,Default,,0,0,0,,You tried hard to protect me\Neven though I had been lying to you.
+Dialogue: 0,0:00:47.79,0:00:50.54,Default,,0,0,0,,I now realize that I wasn't putting my utmost faith in you.
+Dialogue: 0,0:00:51.70,0:00:53.12,Default,,0,0,0,,Mom...
+Dialogue: 0,0:00:53.12,0:00:56.25,Default,,0,0,0,,Anyway, starting from today\Nthis will now be known as the "Daddy Box!"
+Dialogue: 0,0:00:56.37,0:00:59.00,Default,,0,0,0,,Uh, I think I'm going to need a little more time\Nto process this revelation.
+Dialogue: 0,0:00:59.00,0:01:00.95,Default,,0,0,0,,We can finally make some offerings to him as a family!
+Dialogue: 0,0:01:00.95,0:01:11.33,Default,,0,0,0,,{\an8}MIKAN
+Dialogue: 0,0:01:01.33,0:01:04.66,Default,,0,0,0,,The Daddy Box is built tough\Nand any stains get automatically purified,
+Dialogue: 0,0:01:04.66,0:01:07.33,Default,,0,0,0,,so let's continue to use it\Nas a stool and table just like always.
+Dialogue: 0,0:01:07.33,0:01:08.66,Default,,0,0,0,,Are you sure that's okay?!
+Dialogue: 0,0:01:08.66,0:01:11.33,Default,,0,0,0,,Your father was the type\Nthat put things to use in any way he could.
+Dialogue: 0,0:01:11.33,0:01:14.33,Default,,0,0,0,,{\an8}BRING IT ON!
+Dialogue: 0,0:01:11.33,0:01:14.16,Default,,0,0,0,,Everything okay! Bring it on!
+Dialogue: 0,0:01:14.37,0:01:18.12,Default,,0,0,0,,Now then, I have some more things\Nabout your father that I want to tell you.
+Dialogue: 0,0:01:18.12,0:01:19.20,Default,,0,0,0,,Listen closely, Yuko.
+Dialogue: 0,0:01:19.20,0:01:20.00,Default,,0,0,0,,Okay.
+Dialogue: 0,0:01:20.00,0:01:22.50,Default,,0,0,0,,Do you remember anything about your father?
+Dialogue: 0,0:01:23.00,0:01:24.04,Default,,0,0,0,,Not much.
+Dialogue: 0,0:01:24.04,0:01:27.91,Default,,0,0,0,,That makes sense. You were almost always sleeping\Nback when he was around.
+Dialogue: 0,0:01:28.04,0:01:30.87,Default,,0,0,0,,But I do remember that he used\Nto pat me on the head sometimes.
+Dialogue: 0,0:01:31.29,0:01:33.62,Default,,0,0,0,,Your father had quite the pair of horns on his head.
+Dialogue: 0,0:01:36.54,0:01:39.45,Default,,0,0,0,,So this is what he looked like back in the day.
+Dialogue: 0,0:01:41.20,0:01:42.91,Default,,0,0,0,,He's so much shorter than mom!
+Dialogue: 0,0:01:42.91,0:01:45.25,Default,,0,0,0,,I must have inherited my short stature from him!
+Dialogue: 0,0:01:45.25,0:01:46.91,Default,,0,0,0,,I probably won't get any taller, even if I undo the seal!
+Dialogue: 0,0:01:46.91,0:01:48.25,Default,,0,0,0,,Are you okay, Yuko?
+Dialogue: 0,0:01:48.25,0:01:51.75,Default,,0,0,0,,Doesn't dad seem pretty young here?\NHe looks around the same age I am!
+Dialogue: 0,0:01:51.75,0:01:53.91,Default,,0,0,0,,Your father has always had\Nan incredibly youthful complexion.
+Dialogue: 0,0:01:53.91,0:01:55.00,Default,,0,0,0,,I'll give this back now!
+Dialogue: 0,0:01:55.00,0:01:57.95,Default,,0,0,0,,By the way, I've pretty much stopped aging\Never since I became his vassal.
+Dialogue: 0,0:01:57.95,0:01:58.62,Default,,0,0,0,,"Vassal"?
+Dialogue: 0,0:01:58.62,0:02:01.33,Default,,0,0,0,,A vassal is someone that has forged a bond\Nwith another through a contract...
+Dialogue: 0,0:02:01.33,0:02:05.00,Default,,0,0,0,,Wait a second. Maybe it's better to say\Nthat it's a type of blood relation via magic.
+Dialogue: 0,0:02:01.70,0:02:05.70,Default,,0,0,0,,{\an9}VASSAL
+Dialogue: 0,0:02:03.12,0:02:05.70,Default,,0,0,0,,{\an7}A SUBSERVIENT MEMBER OF A CLAN OR FAMILY.\N{\an7}ORIGINALLY USED TO REFER TO EMISSARIES OF GOD.\N{\an7}IT CAN MEAN: RELATIVES, KINSFOLK,\N{\an7}FOLLOWERS, SERVANTS, OR ANY SORT\N{\an7}OF DEPENDENT RELATIONSHIP.
+Dialogue: 0,0:02:05.00,0:02:05.70,Default,,0,0,0,,Overload...
+Dialogue: 0,0:02:05.20,0:02:05.70,Default,,0,0,0,,{\an7}OVERLOAD
+Dialogue: 0,0:02:05.70,0:02:06.70,Default,,0,0,0,,{\an8}OVERLOAD
+Dialogue: 0,0:02:06.58,0:02:08.33,Default,,0,0,0,,Are you all right, Yuko?
+Dialogue: 0,0:02:08.33,0:02:10.66,Default,,0,0,0,,Um, I'm still in a state of shock to be honest.
+Dialogue: 0,0:02:10.66,0:02:15.75,Default,,0,0,0,,{\an8}So much... so much... so much...
+Dialogue: 0,0:02:11.25,0:02:14.33,Default,,0,0,0,,Ever since I grew these horns,\Nthere's just been so much going on.
+Dialogue: 0,0:02:15.75,0:02:16.83,Default,,0,0,0,,Scuttle, scuttle, scuttle, scuttle.
+Dialogue: 0,0:02:18.20,0:02:21.58,Default,,0,0,0,,I think I've gotten accustomed\Nto dealing with surprises, lately.
+Dialogue: 0,0:02:21.58,0:02:24.04,Default,,0,0,0,,Yuko! You've really started to take after your father!
+Dialogue: 0,0:02:24.04,0:02:25.50,Default,,0,0,0,,Bring it on...
+Dialogue: 0,0:02:24.25,0:02:25.75,Default,,0,0,0,,{\an7}BRING\N{\an7}IT\N{\an7}ON
+Dialogue: 0,0:02:27.00,0:02:28.16,Default,,0,0,0,,And really...
+Dialogue: 0,0:02:29.58,0:02:31.75,Default,,0,0,0,,I'm relieved that dad hasn't died or anything.
+Dialogue: 0,0:02:32.95,0:02:36.91,Default,,0,0,0,,And now I know that I'm in good health\Nthanks to the help of many different people.
+Dialogue: 0,0:02:37.29,0:02:38.29,Default,,0,0,0,,I...
+Dialogue: 0,0:02:39.87,0:02:43.70,Default,,0,0,0,,I think I've finally figured out a reason to fight.
+Dialogue: 0,0:02:45.62,0:02:48.08,Default,,0,0,0,,Mom, I'm going to chase after Momo.
+Dialogue: 0,0:02:48.33,0:02:50.20,Default,,0,0,0,,I don't want her to fret over all this on her own.
+Dialogue: 0,0:02:50.45,0:02:53.45,Default,,0,0,0,,Momo has been my mortal enemy\Never since the moment I first laid eyes on her.
+Dialogue: 0,0:02:53.45,0:02:57.00,Default,,0,0,0,,I'll chase her to the ends of the Earth\Nuntil I can finally claim victory over her!
+Dialogue: 0,0:02:58.50,0:03:01.79,Default,,0,0,0,,You're going to regret all that time you spent\Nhelping me build up stamina, Momo!
+Dialogue: 0,0:03:01.79,0:03:04.33,Default,,0,0,0,,Now I'm going to have my revenge\Nfor the tire and all that other stuff you did!
+Dialogue: 0,0:03:04.33,0:03:05.29,Default,,0,0,0,,"Tire and other stuff"?
+Dialogue: 0,0:03:05.29,0:03:06.08,Default,,0,0,0,,Mom.
+Dialogue: 0,0:03:06.08,0:03:06.70,Default,,0,0,0,,Yes?
+Dialogue: 0,0:03:07.70,0:03:11.20,Default,,0,0,0,,Please share some more stories about dad with me later.
+Dialogue: 0,0:03:12.75,0:03:13.66,Default,,0,0,0,,I'm headed out!
+Dialogue: 0,0:03:13.66,0:03:14.62,Default,,0,0,0,,Sure.
+Dialogue: 0,0:03:15.95,0:03:19.70,Default,,0,0,0,,Yuko, I imagine you probably don't remember this...
+Dialogue: 0,0:03:20.00,0:03:22.62,Default,,0,0,0,,...but there's something\Nthat your father used to say to you.
+Dialogue: 0,0:03:25.20,0:03:26.62,Default,,0,0,0,,She's already gone.
+Dialogue: 0,0:03:27.25,0:03:29.50,Default,,0,0,0,,I'll just have to tell her some other time.
+Dialogue: 0,0:03:40.83,0:03:43.54,Default,,0,0,0,,{\an8\pos(614,200)}The Demon Girl Next Door
+Dialogue: 0,0:03:43.54,0:03:46.50,Default,,0,0,0,,Taiyou mabushisugite\NThe sun is shining too brightly
+Dialogue: 0,0:03:46.58,0:03:49.37,Default,,0,0,0,,(Chikachika me o kosutta)\N(I rubbed my eyes from the glare)
+Dialogue: 0,0:03:49.37,0:03:52.29,Default,,0,0,0,,Omowazu tobidashita yo\NI took off without even thinking
+Dialogue: 0,0:03:52.37,0:03:54.83,Default,,0,0,0,,(Dokidoki no hajimiari sa)\N(It's time for us to spark the joy)
+Dialogue: 0,0:03:54.83,0:04:00.58,Default,,0,0,0,,Yurayura yureru maegami hidarite de osaetara\NWhen I hold back my swaying bangs with my left hand
+Dialogue: 0,0:04:00.66,0:04:05.16,Default,,0,0,0,,Itsumo no keshiki ga kirameku yo\NThese familiar sights start to shine
+Dialogue: 0,0:04:05.25,0:04:06.37,Default,,0,0,0,,(Three, two, one)
+Dialogue: 0,0:04:06.45,0:04:11.41,Default,,0,0,0,,Ima sugu tsutaetai futari no himitsu\NWe want to share our secret, right now
+Dialogue: 0,0:04:12.25,0:04:17.91,Default,,0,0,0,,Watashitachi nara dekiru yo\NAnything is possible for us
+Dialogue: 0,0:04:15.62,0:04:17.91,Default,,0,0,0,,{\an8}(Itsumo tonari ni ite)\N{\an8}(Always stay by my side)
+Dialogue: 0,0:04:18.00,0:04:20.08,Default,,0,0,0,,Kitto\NFor sure
+Dialogue: 0,0:04:18.50,0:04:20.58,Default,,0,0,0,,{\an8}(Shijiteru kara)\N{\an8}(We trust each other)
+Dialogue: 0,0:04:20.58,0:04:26.54,Default,,0,0,0,,Machikado de mitsuketa daiji na takaramono\NOn that street corner we found a precious treasure
+Dialogue: 0,0:04:26.62,0:04:32.37,Default,,0,0,0,,Tatoe kimi ga tooku hanaretemo kanarazu oikakeru yo\NEven if you went far away, I would definitely run after you
+Dialogue: 0,0:04:32.45,0:04:38.45,Default,,0,0,0,,Zutto kagayaiteru mirai wa koko ni aru\NOur future is here, forever burning bright
+Dialogue: 0,0:04:38.58,0:04:43.66,Default,,0,0,0,,Otanoshimi wa kore kara\NThe fun is only just getting started
+Dialogue: 0,0:04:59.95,0:05:04.95,Default,,0,0,0,,{\an8\pos(574,154)}Feelings to Convey!!\N{\an7}A New Leap Forward for Demonkind!!
+Dialogue: 0,0:05:06.16,0:05:09.54,Default,,0,0,0,,The Demon Girl and the Magical Girl\Nshare a surprising intertwined fate.
+Dialogue: 0,0:05:09.54,0:05:12.83,Default,,0,0,0,,Shamiko, now is the time for you\Nto chase after that Magical Girl!
+Dialogue: 0,0:05:15.70,0:05:17.70,Default,,0,0,0,,Where exactly did Momo disappear to?
+Dialogue: 0,0:05:18.04,0:05:20.45,Default,,0,0,0,,Maybe I should start by checking out her house.
+Dialogue: 0,0:05:21.08,0:05:24.20,Default,,0,0,0,,Shamiko.... Hey Shamiko...
+Dialogue: 0,0:05:24.66,0:05:28.79,Default,,0,0,0,,{\an8}Dog
+Dialogue: 0,0:05:24.87,0:05:25.41,Default,,0,0,0,,{\an7}MUNCH
+Dialogue: 0,0:05:25.41,0:05:25.87,Default,,0,0,0,,{\an7}MUNCH
+Dialogue: 0,0:05:25.87,0:05:26.41,Default,,0,0,0,,{\an8}MUNCH
+Dialogue: 0,0:05:26.37,0:05:28.16,Default,,0,0,0,,A-Ancestor!
+Dialogue: 0,0:05:26.41,0:05:26.91,Default,,0,0,0,,{\an7}MUNCH
+Dialogue: 0,0:05:26.91,0:05:27.45,Default,,0,0,0,,{\an7}MUNCH
+Dialogue: 0,0:05:27.83,0:05:28.08,Default,,0,0,0,,{\an8}MUNCH
+Dialogue: 0,0:05:28.25,0:05:28.79,Default,,0,0,0,,{\an7}MUNCH
+Dialogue: 0,0:05:29.83,0:05:31.37,Default,,0,0,0,,Ancestor...
+Dialogue: 0,0:05:31.54,0:05:31.79,Default,,0,0,0,,{\an9}PAT\N{\an9}PAT
+Dialogue: 0,0:05:31.54,0:05:35.29,Default,,0,0,0,,It's my fault that you got all messed up like this!\NDid you lose some weight?
+Dialogue: 0,0:05:32.04,0:05:32.29,Default,,0,0,0,,{\an9}PAT\N{\an9}PAT
+Dialogue: 0,0:05:32.79,0:05:33.04,Default,,0,0,0,,{\an9}PAT\N{\an9}PAT
+Dialogue: 0,0:05:33.29,0:05:33.54,Default,,0,0,0,,{\an9}PAT\N{\an9}PAT
+Dialogue: 0,0:05:34.29,0:05:34.54,Default,,0,0,0,,{\an9}PAT\N{\an9}PAT
+Dialogue: 0,0:05:34.79,0:05:35.04,Default,,0,0,0,,{\an9}PAT\N{\an9}PAT
+Dialogue: 0,0:05:35.29,0:05:38.66,Default,,0,0,0,,Shamiko, that's a dog toy you're holding. I'm over here!
+Dialogue: 0,0:05:35.54,0:05:35.79,Default,,0,0,0,,{\an9}PAT\N{\an9}PAT
+Dialogue: 0,0:05:36.04,0:05:36.29,Default,,0,0,0,,{\an9}PAT\N{\an9}PAT
+Dialogue: 0,0:05:36.54,0:05:36.79,Default,,0,0,0,,{\an9}PAT\N{\an9}PAT
+Dialogue: 0,0:05:37.29,0:05:38.79,Default,,0,0,0,,{\an9}PAT\N{\an9}PAT
+Dialogue: 0,0:05:38.79,0:05:43.50,Default,,0,0,0,,{\an8}SUPER MOVE! MAGICAL GIRL HURL!
+Dialogue: 0,0:05:39.04,0:05:42.20,Default,,0,0,0,,After being flung away by the Magical Girl\Nin the last episode, the ancestor has been rescued.
+Dialogue: 0,0:05:42.20,0:05:43.50,Default,,0,0,0,,Good work, Shamiko!
+Dialogue: 0,0:05:44.70,0:05:47.75,Default,,0,0,0,,Your father was connected\Nto the currently missing Sakura Chiyoda...
+Dialogue: 0,0:05:47.75,0:05:50.79,Default,,0,0,0,,...and the barrier that surrounds this city. I see.
+Dialogue: 0,0:05:50.79,0:05:53.54,Default,,0,0,0,,Did you know about what happened\Nto my father, Ancestor?
+Dialogue: 0,0:05:53.66,0:05:57.04,Default,,0,0,0,,Actually, I don't really know anything\Nabout your father or his history.
+Dialogue: 0,0:05:57.04,0:05:59.79,Default,,0,0,0,,I was really curious and tried\Nto bring it up with you more than once,
+Dialogue: 0,0:05:59.79,0:06:01.75,Default,,0,0,0,,but every time I was unable to get through Seiko's guard.
+Dialogue: 0,0:06:01.87,0:06:06.91,Default,,0,0,0,,Ancestor... if you run your mouth too much\Nand cause Shamiko to fall sick or get depressed,
+Dialogue: 0,0:06:06.91,0:06:09.00,Default,,0,0,0,,I'll send you to a temple\Nthat performs funerals for old toys!
+Dialogue: 0,0:06:09.00,0:06:10.20,Default,,0,0,0,,Funerals for old toys?!
+Dialogue: 0,0:06:10.25,0:06:15.66,Default,,0,0,0,,{\an8}Authentic\N{\an8}Japanese Shochu\N{\an8}Glug\N{\an8}Glug
+Dialogue: 0,0:06:10.50,0:06:14.50,Default,,0,0,0,,If you play your cards right, I'll prepare\Na small reservoir of sake for you to partake in every day.
+Dialogue: 0,0:06:14.50,0:06:15.70,Default,,0,0,0,,Sake is so tasty...
+Dialogue: 0,0:06:15.70,0:06:18.70,Default,,0,0,0,,I just... I couldn't... Sob, sob.
+Dialogue: 0,0:06:19.00,0:06:20.66,Default,,0,0,0,,Don't cry, Ancestor!
+Dialogue: 0,0:06:23.95,0:06:26.12,Default,,0,0,0,,Right now, I need to focus on cornering Momo.
+Dialogue: 0,0:06:26.25,0:06:30.70,Default,,0,0,0,,From what I understood, Ms. Sakura Chiyoda\Nis the person I owe for making me healthy again.
+Dialogue: 0,0:06:30.70,0:06:34.12,Default,,0,0,0,,But... I get the feeling Momo didn't see things that way.
+Dialogue: 0,0:06:35.25,0:06:39.70,Default,,0,0,0,,I think that if I just left her alone,\NMomo would disappear and I'd never see her again.
+Dialogue: 0,0:06:41.12,0:06:42.45,Default,,0,0,0,,Shamiko?
+Dialogue: 0,0:06:42.45,0:06:48.70,Default,,0,0,0,,That's why I'm going to return the favor by dragging\NMomo back and then helping her search for Ms. Sakura.
+Dialogue: 0,0:06:48.95,0:06:49.66,Default,,0,0,0,,But...
+Dialogue: 0,0:06:49.66,0:06:54.79,Default,,0,0,0,,{\an7}TREMBLE\N{\an9}TREMBLE\N{\an7}TREMBLE\N{\an9}TREMBLE
+Dialogue: 0,0:06:49.91,0:06:53.54,Default,,0,0,0,,Even if I do manage to grab hold of her,\NI couldn't stop her from turning the tables on me...
+Dialogue: 0,0:06:53.75,0:06:56.04,Default,,0,0,0,,Worst case scenario,\Nshe flings me as high as the heavens.
+Dialogue: 0,0:06:56.91,0:06:59.45,Default,,0,0,0,,Are you telling me you charged out here\Nwith no plan at all?!
+Dialogue: 0,0:07:00.12,0:07:03.91,Default,,0,0,0,,I think Momo probably got close to me\Nto try and get some info about her sister.
+Dialogue: 0,0:07:03.91,0:07:06.79,Default,,0,0,0,,But unfortunately, the one lead she finally found\Nwasn't able to provide any answers.
+Dialogue: 0,0:07:06.79,0:07:09.95,Default,,0,0,0,,She must be really depressed\Nabout having been sent back to square one.
+Dialogue: 0,0:07:10.58,0:07:13.20,Default,,0,0,0,,I don't think she'll be willing\Nto work together with me anymore.
+Dialogue: 0,0:07:13.20,0:07:17.20,Default,,0,0,0,,Think about it this way, Shamiko. If Momo is feeling down\Nright now, then it's a chance we can't pass up!
+Dialogue: 0,0:07:17.50,0:07:21.70,Default,,0,0,0,,You're my descendant and you have the ability\Nto get into people's hearts and freely manipulate them.
+Dialogue: 0,0:07:21.91,0:07:22.87,Default,,0,0,0,,In theory, anyway.
+Dialogue: 0,0:07:22.87,0:07:23.62,Default,,0,0,0,,"Theory"?
+Dialogue: 0,0:07:23.62,0:07:26.45,Default,,0,0,0,,It's simple... all you need to do is seduce Momo Chiyoda!
+Dialogue: 0,0:07:26.66,0:07:27.91,Default,,0,0,0,,"Seduce"?!
+Dialogue: 0,0:07:30.33,0:07:31.54,Default,,0,0,0,,She's not here, either.
+Dialogue: 0,0:07:31.54,0:07:33.29,Default,,0,0,0,,No pink heads that I can see.
+Dialogue: 0,0:07:33.29,0:07:34.79,Default,,0,0,0,,Oh? If it isn't Shamiko.
+Dialogue: 0,0:07:35.70,0:07:37.37,Default,,0,0,0,,Oh! Hello Mikan.\NYou don't look too good.
+Dialogue: 0,0:07:37.62,0:07:39.04,Default,,0,0,0,,You should take a dose of vitamin C!
+Dialogue: 0,0:07:39.04,0:07:48.29,Default,,0,0,0,,{\an8\pos(722,386)}MYSTERIOUS
+Dialogue: 0,0:07:39.33,0:07:40.58,Default,,0,0,0,,Actually, what good timing.
+Dialogue: 0,0:07:39.33,0:07:42.04,Default,,0,0,0,,{\an8}Come on! Just eat this! It's a citrus fruit that I just bought!
+Dialogue: 0,0:07:40.58,0:07:42.79,Default,,0,0,0,,Can you tell me the places that Momo might go to?
+Dialogue: 0,0:07:42.79,0:07:43.70,Default,,0,0,0,,Huh? What for?
+Dialogue: 0,0:07:43.70,0:07:46.91,Default,,0,0,0,,I'm looking for Momo and I have to find her\Nas quickly as possible.
+Dialogue: 0,0:07:46.91,0:07:48.20,Default,,0,0,0,,You're looking for her?
+Dialogue: 0,0:07:50.87,0:07:51.83,Default,,0,0,0,,Is that true?
+Dialogue: 0,0:07:51.83,0:07:53.50,Default,,0,0,0,,Ms. Sakura disappeared?
+Dialogue: 0,0:07:53.50,0:07:55.58,Default,,0,0,0,,Huh? Didn't you know, Mikan?
+Dialogue: 0,0:07:55.58,0:07:59.62,Default,,0,0,0,,Th-th-th-this is the first I'm hearing about it!
+Dialogue: 0,0:08:03.04,0:08:05.45,Default,,0,0,0,,Uh, Mikan please keep your cool!
+Dialogue: 0,0:08:07.00,0:08:08.12,Default,,0,0,0,,Why did Momo hide it all from me?
+Dialogue: 0,0:08:08.12,0:08:09.83,Default,,0,0,0,,Mikan... stay in control...!
+Dialogue: 0,0:08:09.83,0:08:11.66,Default,,0,0,0,,Why didn't she just tell me?
+Dialogue: 0,0:08:12.08,0:08:14.16,Default,,0,0,0,,Crisis Management!
+Dialogue: 0,0:08:29.79,0:08:33.00,Default,,0,0,0,,{\an9}98 cents\N{\an9}(98 yen)
+Dialogue: 0,0:08:29.79,0:08:31.20,Default,,0,0,0,,Mikan...
+Dialogue: 0,0:08:33.12,0:08:35.62,Default,,0,0,0,,I owe Ms. Sakura a lot, too.
+Dialogue: 0,0:08:35.62,0:08:39.00,Default,,0,0,0,,Why won't Momo rely on me? I thought we were friends.
+Dialogue: 0,0:08:39.00,0:08:40.12,Default,,0,0,0,,Hey, Mikan.
+Dialogue: 0,0:08:40.25,0:08:41.20,Default,,0,0,0,,Shamiko?
+Dialogue: 0,0:08:41.20,0:08:42.70,Default,,0,0,0,,As another of Momo's friends-
+Dialogue: 0,0:08:42.70,0:08:47.70,Default,,0,0,0,,I mean mortal enemy, I'm equally frustrated\Nthat she's choosing to run away.
+Dialogue: 0,0:08:47.95,0:08:50.12,Default,,0,0,0,,Oh no, did my curse hit you again? I'm sorry.
+Dialogue: 0,0:08:50.12,0:08:51.33,Default,,0,0,0,,Huh? 98 cents?
+Dialogue: 0,0:08:51.33,0:08:52.83,Default,,0,0,0,,Please tell me what you know about Momo!
+Dialogue: 0,0:08:53.12,0:08:54.29,Default,,0,0,0,,I have to find her no matter what!
+Dialogue: 0,0:08:55.00,0:08:56.20,Default,,0,0,0,,Shamiko...
+Dialogue: 0,0:08:59.00,0:09:02.00,Default,,0,0,0,,If it's true that Ms. Sakura vanished over 10 years ago,
+Dialogue: 0,0:09:02.00,0:09:05.16,Default,,0,0,0,,that would have been\Nafter she left Momo in a different city.
+Dialogue: 0,0:09:05.16,0:09:07.87,Default,,0,0,0,,Even if Momo wanted to look for her,\Nshe wouldn't have any leads to go off of.
+Dialogue: 0,0:09:08.41,0:09:11.29,Default,,0,0,0,,Assuming there is a Demon in the city old enough\Nto remember exactly what happened,
+Dialogue: 0,0:09:11.29,0:09:15.25,Default,,0,0,0,,it doesn't matter since the barrier here\Nprevents Magical Girls from encountering Demons.
+Dialogue: 0,0:09:15.45,0:09:16.95,Default,,0,0,0,,Yeah, Momo mentioned that to me.
+Dialogue: 0,0:09:16.95,0:09:17.54,Default,,0,0,0,,Huh?
+Dialogue: 0,0:09:17.83,0:09:20.79,Default,,0,0,0,,But on the day that I became a Demon Girl,\NI encountered Momo right away.
+Dialogue: 0,0:09:20.79,0:09:21.70,Default,,0,0,0,,She stopped it with one hand?
+Dialogue: 0,0:09:22.00,0:09:24.00,Default,,0,0,0,,Yeah, about that...
+Dialogue: 0,0:09:24.00,0:09:27.83,Default,,0,0,0,,...you mentioned earlier that Metako said he could sense\NSakura Chiyoda's presence in you, right?
+Dialogue: 0,0:09:27.83,0:09:28.50,Default,,0,0,0,,Right.
+Dialogue: 0,0:09:28.50,0:09:32.75,Default,,0,0,0,,Like I said, it's usually impossible for any Demon\Nand any Magical Girl to cross paths in this city.
+Dialogue: 0,0:09:33.41,0:09:34.00,Default,,0,0,0,,Right.
+Dialogue: 0,0:09:34.00,0:09:36.95,Default,,0,0,0,,That's why I think your meeting with Momo\Nmust have been some kind of fated event.
+Dialogue: 0,0:09:37.12,0:09:39.70,Default,,0,0,0,,A mysterious power might have been at work\Nbehind the scenes somehow.
+Dialogue: 0,0:09:40.54,0:09:41.58,Default,,0,0,0,,"Fated event"...
+Dialogue: 0,0:09:42.12,0:09:45.33,Default,,0,0,0,,Well, that's just a guess.\NIt might actually be a simple coincidence.
+Dialogue: 0,0:09:45.79,0:09:48.00,Default,,0,0,0,,It's true that the barrier on our house had grown weaker.
+Dialogue: 0,0:09:48.25,0:09:50.29,Default,,0,0,0,,I wonder if that was also due to the hand of fate?
+Dialogue: 0,0:09:50.45,0:09:51.45,Default,,0,0,0,,Shamiko.
+Dialogue: 0,0:09:51.87,0:09:54.20,Default,,0,0,0,,I can think of one place that Momo might have gone to.
+Dialogue: 0,0:09:55.00,0:09:57.16,Default,,0,0,0,,But you should go by yourself to look for her there.
+Dialogue: 0,0:09:57.16,0:09:58.54,Default,,0,0,0,,Huh? Why is that?
+Dialogue: 0,0:09:58.54,0:10:02.37,Default,,0,0,0,,Well, I mean, if I overhear your conversation\Nthen it might make me lose control of all my nerves!
+Dialogue: 0,0:10:02.37,0:10:04.45,Default,,0,0,0,,Okay, I get it! You're already starting to lose it!
+Dialogue: 0,0:10:04.20,0:10:09.16,Default,,0,0,0,,{\an8\pos(586,256)}Tama River
+Dialogue: 0,0:10:04.45,0:10:06.08,Default,,0,0,0,,But I want to hear all the details from you afterwards!
+Dialogue: 0,0:10:06.08,0:10:07.58,Default,,0,0,0,,Okay, sure!
+Dialogue: 0,0:10:06.87,0:10:09.16,Default,,0,0,0,,{\an8}Shamiko, save me! I'm going to go flying!
+Dialogue: 0,0:10:15.12,0:10:16.95,Default,,0,0,0,,I finally found you, Magical Girl!
+Dialogue: 0,0:10:17.79,0:10:19.62,Default,,0,0,0,,I'm impressed you knew to come here.
+Dialogue: 0,0:10:19.62,0:10:23.33,Default,,0,0,0,,Mikan was kind enough to tell me.\NShe said that you and your sister liked this spot.
+Dialogue: 0,0:10:23.50,0:10:27.58,Default,,0,0,0,,Momo, were you hiding\Nthe disappearance of your sister from Mikan?
+Dialogue: 0,0:10:27.58,0:10:31.20,Default,,0,0,0,,Yes. Mikan was one of my sister's disciples,\Nand I thought she might not take it well.
+Dialogue: 0,0:10:31.20,0:10:32.41,Default,,0,0,0,,That's an understatement.
+Dialogue: 0,0:10:32.62,0:10:34.95,Default,,0,0,0,,Thanks to you, I ended up\Nhaving to endure a very cursed shower.
+Dialogue: 0,0:10:33.16,0:10:39.91,Default,,0,0,0,,{\an9}GRUMBLE\N{\an8}GRUMBLE
+Dialogue: 0,0:10:34.95,0:10:36.62,Default,,0,0,0,,It totally ruined my clothes.
+Dialogue: 0,0:10:36.62,0:10:38.41,Default,,0,0,0,,That explains why you chose to come in your battle form.
+Dialogue: 0,0:10:38.41,0:10:39.87,Default,,0,0,0,,Just look at what happened to me!
+Dialogue: 0,0:10:39.87,0:10:42.00,Default,,0,0,0,,Anyways, why did you come find me?
+Dialogue: 0,0:10:42.16,0:10:45.37,Default,,0,0,0,,You know that my sister was the one\Nwho sealed your father away, right?
+Dialogue: 0,0:10:45.58,0:10:47.58,Default,,0,0,0,,What reason could you have to be friendly with me now?
+Dialogue: 0,0:10:57.58,0:10:59.33,Default,,0,0,0,,Momo, you're my mortal enemy.
+Dialogue: 0,0:10:59.33,0:11:02.08,Default,,0,0,0,,Even if we're not friendly, that's more than enough reason\Nfor me to stick close to you.
+Dialogue: 0,0:11:02.08,0:11:02.91,Default,,0,0,0,,What's that mean?
+Dialogue: 0,0:11:02.91,0:11:05.16,Default,,0,0,0,,I came here because I want to strike a deal with you.
+Dialogue: 0,0:11:06.79,0:11:10.25,Default,,0,0,0,,Momo... will you consider quitting being a Magical Girl?
+Dialogue: 0,0:11:10.87,0:11:13.95,Default,,0,0,0,,Please make a contract with me and become my vassal!
+Dialogue: 0,0:11:30.08,0:11:31.41,Default,,0,0,0,,What are you talking about?
+Dialogue: 0,0:11:31.41,0:11:33.87,Default,,0,0,0,,You want to search for Ms. Sakura, right?
+Dialogue: 0,0:11:34.04,0:11:37.20,Default,,0,0,0,,But you can't really do anything because\Nthe barrier here obstructs all Magical Girls.
+Dialogue: 0,0:11:37.37,0:11:40.20,Default,,0,0,0,,Then the solution is simple:\Nyou just have to quit being a Magical Girl!
+Dialogue: 0,0:11:40.20,0:11:42.62,Default,,0,0,0,,Quit? But I can't just...
+Dialogue: 0,0:11:42.62,0:11:43.66,Default,,0,0,0,,Actually, you can!
+Dialogue: 0,0:11:43.66,0:11:46.62,Default,,0,0,0,,If a Magical Girl overwrites their contract\Nby forging one with a Demon,
+Dialogue: 0,0:11:46.62,0:11:50.00,Default,,0,0,0,,their magic attribute will become darkness\Nand they will stray from the path of light,
+Dialogue: 0,0:11:50.00,0:11:52.16,Default,,0,0,0,,thereby officially making them a vassal of darkness.
+Dialogue: 0,0:11:54.75,0:11:59.66,Default,,0,0,0,,I dub this the: "Momo Chiyoda Gets Enticed\Nby the Allure of Darkness Project!"
+Dialogue: 0,0:11:59.66,0:12:01.45,Default,,0,0,0,,Uh oh, sorry about that Ancestor.
+Dialogue: 0,0:12:01.45,0:12:02.66,Default,,0,0,0,,So dwizzy...
+Dialogue: 0,0:12:03.04,0:12:05.45,Default,,0,0,0,,Ugh... ugh... uuugh...
+Dialogue: 0,0:12:05.70,0:12:08.50,Default,,0,0,0,,I finally found a reason to fight.
+Dialogue: 0,0:12:08.50,0:12:10.70,Default,,0,0,0,,And that's why I need you to stick around, Momo.
+Dialogue: 0,0:12:12.70,0:12:13.62,Default,,0,0,0,,To be honest...
+Dialogue: 0,0:12:14.04,0:12:17.12,Default,,0,0,0,,...I think your personality is more suited\Nto being a Demon Girl than a Magical Girl.
+Dialogue: 0,0:12:18.37,0:12:21.41,Default,,0,0,0,,I mean, if nobody watches out for you\Nthen your diet just goes straight to Hell!
+Dialogue: 0,0:12:21.41,0:12:23.66,Default,,0,0,0,,And you're really good at coming up\Nwith evil ways to use special powers!
+Dialogue: 0,0:12:23.66,0:12:26.12,Default,,0,0,0,,You even exude a way darker aura\Nthan I do most of the time!
+Dialogue: 0,0:12:26.12,0:12:27.70,Default,,0,0,0,,You're not pulling any punches...
+Dialogue: 0,0:12:27.70,0:12:31.62,Default,,0,0,0,,I don't think that white and pink theme you have\Ngoing on actually fits the color of your personality.
+Dialogue: 0,0:12:31.62,0:12:34.75,Default,,0,0,0,,If you fall to the darkness, we'll redesign\Nyour battle form with a simple black as the base!
+Dialogue: 0,0:12:34.75,0:12:36.58,Default,,0,0,0,,We can even make your weapon\Nlike a dark katana or something.
+Dialogue: 0,0:12:36.58,0:12:38.66,Default,,0,0,0,,You're even dragging complaints\Nabout my battle form into this?
+Dialogue: 0,0:12:38.87,0:12:42.37,Default,,0,0,0,,Agreeing to become my vassal\Nis a pretty good deal, you know.
+Dialogue: 0,0:12:43.12,0:12:46.33,Default,,0,0,0,,I'll help consider the solutions\Nto whatever tough problems you face.
+Dialogue: 0,0:12:47.41,0:12:50.37,Default,,0,0,0,,And I'll also join you in doing the things\Nthat you don't like to do.
+Dialogue: 0,0:12:51.33,0:12:54.00,Default,,0,0,0,,Right now, it seems to me\Nthat you're struggling all by yourself.
+Dialogue: 0,0:12:54.00,0:12:55.50,Default,,0,0,0,,It makes me worry about you.
+Dialogue: 0,0:12:55.50,0:12:59.41,Default,,0,0,0,,But your mother had to raise\N2 daughters on her own for 10 years...
+Dialogue: 0,0:12:59.91,0:13:03.37,Default,,0,0,0,,...and on top of that, she had\Nto lie to you about it the whole time.
+Dialogue: 0,0:13:03.37,0:13:06.62,Default,,0,0,0,,No matter what I do, I can't return\Nthose 10 years to your family.
+Dialogue: 0,0:13:06.62,0:13:08.33,Default,,0,0,0,,That's why even if you want to strike a deal, I...
+Dialogue: 0,0:13:08.33,0:13:11.58,Default,,0,0,0,,So you're just going to give up and run away\Nbecause you can't give everything back to us 100%?
+Dialogue: 0,0:13:14.41,0:13:18.95,Default,,0,0,0,,I refuse to give up on anything:\NMy father, undoing the seal, or being with you.
+Dialogue: 0,0:13:19.29,0:13:21.41,Default,,0,0,0,,I'm going to find another Demon who lives in this city,
+Dialogue: 0,0:13:21.41,0:13:25.04,Default,,0,0,0,,and hopefully through them, get a lead\Nto find Ms. Sakura, because I owe her so much.
+Dialogue: 0,0:13:25.25,0:13:30.41,Default,,0,0,0,,I'll get stronger, become even more capable,\Nand then get back everything that I possibly can!
+Dialogue: 0,0:13:30.75,0:13:32.95,Default,,0,0,0,,I'm going to become a true Demon and live greedily!
+Dialogue: 0,0:13:33.37,0:13:37.25,Default,,0,0,0,,But I don't think that I can fight\Nthrough all the challenges on my own.
+Dialogue: 0,0:13:37.25,0:13:40.62,Default,,0,0,0,,And since we share the same goals,\NI would really like you to fight by my side.
+Dialogue: 0,0:13:41.83,0:13:43.37,Default,,0,0,0,,Magical Girl, Momo Chiyoda.
+Dialogue: 0,0:13:44.12,0:13:46.54,Default,,0,0,0,,It's time for you to put an end to fighting a solitary war!
+Dialogue: 0,0:13:46.91,0:13:50.66,Default,,0,0,0,,Embrace your weakness, give in to utter depravity,\Nand stray from the path of light.
+Dialogue: 0,0:13:50.66,0:13:52.45,Default,,0,0,0,,Then let yourself fall into darkness!
+Dialogue: 0,0:13:52.91,0:13:54.04,Default,,0,0,0,,Become my...
+Dialogue: 0,0:13:55.00,0:13:57.45,Default,,0,0,0,,Become a subordinate of Shadow Mistress Yuko!
+Dialogue: 0,0:13:58.83,0:14:01.50,Default,,0,0,0,,There's a lot of benefits\Nif you agree to become my vassal!
+Dialogue: 0,0:14:01.50,0:14:05.62,Default,,0,0,0,,Three meals and one nap a day! And if you agree\Nto it now, I'll do all garbage removal and dish washing!
+Dialogue: 0,0:14:05.62,0:14:08.50,Default,,0,0,0,,Hey Shamiko, you're making a serious commitment\Nthat you can't back out of with all those bonuses!
+Dialogue: 0,0:14:08.50,0:14:09.16,Default,,0,0,0,,Gah!
+Dialogue: 0,0:14:11.58,0:14:13.66,Default,,0,0,0,,Avoid the effects of the barrier\Nby becoming a Demon, huh?
+Dialogue: 0,0:14:14.08,0:14:16.29,Default,,0,0,0,,Are you the one who came up with this plan, Ms. Lilith?
+Dialogue: 0,0:14:16.29,0:14:17.00,Default,,0,0,0,,Not at all.
+Dialogue: 0,0:14:17.00,0:14:19.29,Default,,0,0,0,,I did advise Shamiko that it was possible\Nfor you to fall into darkness,
+Dialogue: 0,0:14:19.29,0:14:21.95,Default,,0,0,0,,but the rest of it was all Shamiko's idea\Nthat she put into her own words.
+Dialogue: 0,0:14:22.29,0:14:26.41,Default,,0,0,0,,By the way, I personally guarantee you won't suffer\Nany personality changes by falling into darkness.
+Dialogue: 0,0:14:26.41,0:14:29.37,Default,,0,0,0,,I see. So Shamiko said all that herself, huh?
+Dialogue: 0,0:14:29.95,0:14:31.04,Default,,0,0,0,,I'm really glad.
+Dialogue: 0,0:14:32.00,0:14:35.50,Default,,0,0,0,,If this was all just happening according\Nto Ms. Lilith's script, I would have flung her into space.
+Dialogue: 0,0:14:35.50,0:14:38.62,Default,,0,0,0,,Why?! Am I crazy or are you\Nextra harsh on me all the time?!
+Dialogue: 0,0:14:38.62,0:14:39.12,Default,,0,0,0,,Shamiko.
+Dialogue: 0,0:14:39.12,0:14:39.87,Default,,0,0,0,,Sigh...
+Dialogue: 0,0:14:39.54,0:14:39.87,Default,,0,0,0,,{\an8}Yes?
+Dialogue: 0,0:14:40.16,0:14:43.00,Default,,0,0,0,,I don't need any bonuses\Nlike three meals and one nap a day.
+Dialogue: 0,0:14:43.91,0:14:46.25,Default,,0,0,0,,Do you promise that you won't suddenly\Ndisappear on me?
+Dialogue: 0,0:14:46.25,0:14:47.08,Default,,0,0,0,,Yes.
+Dialogue: 0,0:14:47.08,0:14:50.50,Default,,0,0,0,,Regardless of whatever I do from now on,\Nor whatever I've done in the past,
+Dialogue: 0,0:14:50.95,0:14:52.45,Default,,0,0,0,,will you continue to stay by my side?
+Dialogue: 0,0:14:52.66,0:14:54.70,Default,,0,0,0,,I swear on the box of my father.
+Dialogue: 0,0:14:55.20,0:14:56.25,Default,,0,0,0,,That's great.
+Dialogue: 0,0:14:59.91,0:15:01.62,Default,,0,0,0,,{\an8}Pause...
+Dialogue: 0,0:14:59.95,0:15:01.00,Default,,0,0,0,,No, wait a second.
+Dialogue: 0,0:15:01.00,0:15:02.08,Default,,0,0,0,,Something is off here.
+Dialogue: 0,0:15:02.08,0:15:04.25,Default,,0,0,0,,Nothing this happy could ever possibly befall me.
+Dialogue: 0,0:15:04.25,0:15:05.45,Default,,0,0,0,,Huh? This isn't going as planned!
+Dialogue: 0,0:15:05.66,0:15:07.29,Default,,0,0,0,,Thinking about it, Ms. Lilith...
+Dialogue: 0,0:15:07.29,0:15:10.41,Default,,0,0,0,,...if I go along with this, Shamiko is going\Nto become the magic ether that I link to
+Dialogue: 0,0:15:10.41,0:15:12.12,Default,,0,0,0,,which means I'll end up really weak, right?
+Dialogue: 0,0:15:12.12,0:15:12.70,Default,,0,0,0,,Gah!
+Dialogue: 0,0:15:12.70,0:15:13.08,Default,,0,0,0,,Huh?
+Dialogue: 0,0:15:13.58,0:15:15.50,Default,,0,0,0,,Is that true, Ancestor?
+Dialogue: 0,0:15:15.50,0:15:17.00,Default,,0,0,0,,Dot, dot, dot.
+Dialogue: 0,0:15:17.37,0:15:18.00,Default,,0,0,0,,Tch.
+Dialogue: 0,0:15:17.50,0:15:18.87,Default,,0,0,0,,{\an8}TCH...
+Dialogue: 0,0:15:18.00,0:15:20.00,Default,,0,0,0,,Yeah, you'll be considerably weaker.
+Dialogue: 0,0:15:20.00,0:15:20.70,Default,,0,0,0,,I knew it.
+Dialogue: 0,0:15:21.16,0:15:23.54,Default,,0,0,0,,You didn't explain that on purpose, I'll bet.
+Dialogue: 0,0:15:25.37,0:15:27.16,Default,,0,0,0,,Ancestor!
+Dialogue: 0,0:15:27.37,0:15:32.00,Default,,0,0,0,,Hey Shamiko. Please come and find me\Nagain someday, somewhere.
+Dialogue: 0,0:15:32.00,0:15:34.16,Default,,0,0,0,,Ancestooor...!
+Dialogue: 0,0:15:35.29,0:15:36.95,Default,,0,0,0,,That was close, I almost totally fell for it.
+Dialogue: 0,0:15:36.95,0:15:37.58,Default,,0,0,0,,{\an8}Wh-whoa...
+Dialogue: 0,0:15:36.95,0:15:37.58,Default,,0,0,0,,Wh-whoa...
+Dialogue: 0,0:15:37.58,0:15:41.95,Default,,0,0,0,,But you had a good point, I've been fighting\Nand contemplating this all on my own for too long.
+Dialogue: 0,0:15:42.33,0:15:43.54,Default,,0,0,0,,Thank you, Shamiko.
+Dialogue: 0,0:15:44.79,0:15:49.20,Default,,0,0,0,,Thinking about it, even if I didn't become a Demon,\Nyou could search the city for other Demons in my place
+Dialogue: 0,0:15:49.20,0:15:51.33,Default,,0,0,0,,without being affected by the barrier, right?
+Dialogue: 0,0:15:51.33,0:15:51.70,Default,,0,0,0,,Huh?
+Dialogue: 0,0:15:52.08,0:15:56.20,Default,,0,0,0,,And in exchange for that, I'll keep you safe\Nand train you even harder than before.
+Dialogue: 0,0:15:56.70,0:15:58.08,Default,,0,0,0,,That's a pretty good deal, don't you think?
+Dialogue: 0,0:15:58.08,0:15:59.58,Default,,0,0,0,,I... I'm not so sure.
+Dialogue: 0,0:16:00.33,0:16:02.37,Default,,0,0,0,,Maybe... huh?
+Dialogue: 0,0:16:04.54,0:16:06.79,Default,,0,0,0,,Is it just me or does that change nothing\Nfrom how things are now?
+Dialogue: 0,0:16:06.79,0:16:09.45,Default,,0,0,0,,If anything, the burden being put on me\Nseems a bit heavier.
+Dialogue: 0,0:16:09.45,0:16:11.66,Default,,0,0,0,,That's not true. You're just imagining it!
+Dialogue: 0,0:16:11.66,0:16:16.00,Default,,0,0,0,,If you agree to the deal now, I'll make\Nyour protein shake after training banana flavored!
+Dialogue: 0,0:16:16.00,0:16:17.91,Default,,0,0,0,,But what happened to the idea\Nof you coming over to the dark side?!
+Dialogue: 0,0:16:17.91,0:16:18.79,Default,,0,0,0,,We're putting it on hold.
+Dialogue: 0,0:16:19.20,0:16:24.00,Default,,0,0,0,,If I went for your deal and became weaker, it would\Nbe impossible for a lot of things to come to fruition.
+Dialogue: 0,0:16:24.25,0:16:27.54,Default,,0,0,0,,Besides, something just doesn't sit right with me\Nbecoming your subordinate.
+Dialogue: 0,0:16:27.54,0:16:28.16,Default,,0,0,0,,But why?!
+Dialogue: 0,0:16:28.70,0:16:33.00,Default,,0,0,0,,If you want to make me your vassal,\Nthen you're going to have to beat me first.
+Dialogue: 0,0:16:33.00,0:16:34.66,Default,,0,0,0,,I have high expectations, Demon Girl.
+Dialogue: 0,0:16:34.66,0:16:40.66,Default,,0,0,0,,{\an9}HEH\N{\an9}HEH\N{\an8}HEH
+Dialogue: 0,0:16:34.66,0:16:38.12,Default,,0,0,0,,So, you're agreeing to become my vassal if I win?
+Dialogue: 0,0:16:34.67,0:16:40.66,Default,,0,0,0,,{\an8}Heh, heh, heh, heh...
+Dialogue: 0,0:16:38.12,0:16:40.66,Default,,0,0,0,,Then I'll just dive into your dream\Nand implant a suggestion in your head and...
+Dialogue: 0,0:16:40.66,0:16:42.54,Default,,0,0,0,,That technique is banned.\NYou have to beat me with only your fists.
+Dialogue: 0,0:16:42.54,0:16:43.45,Default,,0,0,0,,That's not fair!
+Dialogue: 0,0:16:43.45,0:16:45.45,Default,,0,0,0,,Well that wraps things up, so let's head back.
+Dialogue: 0,0:16:46.12,0:16:49.33,Default,,0,0,0,,H-hold on! Nothing is wrapped up!\NAre you trying to make a break for it?!
+Dialogue: 0,0:16:50.37,0:16:53.25,Default,,0,0,0,,Nope. I won't run away from you anymore, Shamiko.
+Dialogue: 0,0:16:53.75,0:16:55.66,Default,,0,0,0,,I'm getting hungry, so let's go back together.
+Dialogue: 0,0:16:55.66,0:16:57.70,Default,,0,0,0,,Grr... You always throw things out of whack.
+Dialogue: 0,0:16:57.70,0:16:58.33,Default,,0,0,0,,Huh?
+Dialogue: 0,0:16:58.33,0:16:59.66,Default,,0,0,0,,Just forget it!
+Dialogue: 0,0:17:01.79,0:17:06.00,Default,,0,0,0,,{\an8}Dog
+Dialogue: 0,0:17:02.45,0:17:05.16,Default,,0,0,0,,Oh dear, it looks like your dinner got all messed up.
+Dialogue: 0,0:17:06.00,0:17:08.00,Default,,0,0,0,,It's okay, I'll bring you a fresh bowl of seconds.
+Dialogue: 0,0:17:09.16,0:17:12.75,Default,,0,0,0,,Sorry, doggie. I don't get to choose where I come down.
+Dialogue: 0,0:17:15.00,0:17:18.20,Default,,0,0,0,,I didn't have the courage to go into the store\Nwith this outfit on, sorry.
+Dialogue: 0,0:17:18.20,0:17:21.37,Default,,0,0,0,,That's okay. While I was in there,\NI bought something for us to share together.
+Dialogue: 0,0:17:21.37,0:17:22.04,Default,,0,0,0,,Here.
+Dialogue: 0,0:17:22.04,0:17:24.16,Default,,0,0,0,,Double popsicles? Can I really have one?
+Dialogue: 0,0:17:24.16,0:17:24.58,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:17:24.87,0:17:26.04,Default,,0,0,0,,Let's split it 50/50.
+Dialogue: 0,0:17:26.04,0:17:27.37,Default,,0,0,0,,I'll snap it in two!
+Dialogue: 0,0:17:27.66,0:17:29.04,Default,,0,0,0,,Just leave it to me!
+Dialogue: 0,0:17:30.83,0:17:32.37,Default,,0,0,0,,{\an9}Hnnngh!
+Dialogue: 0,0:17:32.37,0:17:33.87,Default,,0,0,0,,{\an9}Hnnngh!
+Dialogue: 0,0:17:35.45,0:17:36.62,Default,,0,0,0,,Should I do it instead?
+Dialogue: 0,0:17:36.95,0:17:39.58,Default,,0,0,0,,Heh, heh, heh, I haven't gotten serious yet.
+Dialogue: 0,0:17:39.58,0:17:42.33,Default,,0,0,0,,You just sit back and watch me use my true power!
+Dialogue: 0,0:17:42.79,0:17:43.83,Default,,0,0,0,,Oorah!
+Dialogue: 0,0:17:43.83,0:17:44.83,Default,,0,0,0,,Sorry, let me help.
+Dialogue: 0,0:17:45.00,0:17:45.58,Default,,0,0,0,,{\an8}SNAP
+Dialogue: 0,0:17:46.20,0:17:48.12,Default,,0,0,0,,We're going back to training starting tomorrow.
+Dialogue: 0,0:17:48.50,0:17:50.00,Default,,0,0,0,,Okay, Shadow Mistress?
+Dialogue: 0,0:17:50.00,0:17:51.20,Default,,0,0,0,,Grr...
+Dialogue: 0,0:17:53.62,0:17:55.83,Default,,0,0,0,,Don't think this means you've won!
+Dialogue: 0,0:17:55.83,0:18:01.12,Default,,0,0,0,,Don't give up, Shamiko! Work to defeat your mortal\Nenemy and one day become a great ruler of darkness!
+Dialogue: 0,0:18:01.66,0:18:03.66,Default,,0,0,0,,{\an8}Banda Terrace
+Dialogue: 0,0:18:03.66,0:18:08.08,Default,,0,0,0,,So, everything about your father being away\Nfor business on a space battleship was a lie!
+Dialogue: 0,0:18:08.08,0:18:11.37,Default,,0,0,0,,As your mother, I do feel a bit guilty\Nabout keeping the truth from you.
+Dialogue: 0,0:18:11.37,0:18:12.62,Default,,0,0,0,,Yeah, I figured.
+Dialogue: 0,0:18:12.62,0:18:13.12,Default,,0,0,0,,Huh?
+Dialogue: 0,0:18:13.12,0:18:13.91,Default,,0,0,0,,That's the deal.
+Dialogue: 0,0:18:13.91,0:18:16.79,Default,,0,0,0,,I knew that dad was in a situation\Nwhere he couldn't come home for a long time.
+Dialogue: 0,0:18:17.16,0:18:18.75,Default,,0,0,0,,Mom is a terrible liar.
+Dialogue: 0,0:18:18.79,0:18:23.00,Default,,0,0,0,,{\an8}Demon
+Dialogue: 0,0:18:18.95,0:18:22.45,Default,,0,0,0,,Space battleships and giant squids.\NWho would believe stuff like that?
+Dialogue: 0,0:18:22.45,0:18:23.00,Default,,0,0,0,,Huh?
+Dialogue: 0,0:18:23.29,0:18:26.50,Default,,0,0,0,,Actually, I'm really into those hardboiled crime novels.
+Dialogue: 0,0:18:26.50,0:18:29.70,Default,,0,0,0,,So, I thought that dad may have been involved\Nin something that required prison time.
+Dialogue: 0,0:18:29.70,0:18:30.50,Default,,0,0,0,,"Prison"?!
+Dialogue: 0,0:18:30.50,0:18:34.29,Default,,0,0,0,,{\an8}MIKAN
+Dialogue: 0,0:18:30.50,0:18:33.08,Default,,0,0,0,,Actually, I'm relieved to know\Nthat he's a lot closer than I thought.
+Dialogue: 0,0:18:33.08,0:18:34.95,Default,,0,0,0,,He was right under our nose the whole time.
+Dialogue: 0,0:18:34.29,0:18:34.95,Default,,0,0,0,,{\an8}CLICK\N{\an8}MIKAN
+Dialogue: 0,0:18:34.95,0:18:49.54,Default,,0,0,0,,{\an7}TRAINING MENU\N{\an7}(MAKE SURE TO DO IT ALL EVERY DAY!!)\N{\an7}PLANK - 15 SECONDS\N{\an7}SQUATS - 15 TIMES\N{\an7}TAKE A 30 MINUTE BREAK\N{\an7}LIFT DUMBBELLS - 5 TIMES\N{\an7}PUNCH PRACTICE - 10 TIMES
+Dialogue: 0,0:18:35.16,0:18:37.25,Default,,0,0,0,,You're such a fearless girl, Ryo.
+Dialogue: 0,0:18:37.25,0:18:40.87,Default,,0,0,0,,You might take after your father Joshua\Nin that respect, actually.
+Dialogue: 0,0:18:40.87,0:18:42.08,Default,,0,0,0,,"J-Joshua"?!
+Dialogue: 0,0:18:42.08,0:18:44.20,Default,,0,0,0,,Our dad had a foreign name?!
+Dialogue: 0,0:18:44.20,0:18:47.58,Default,,0,0,0,,Apparently "Joshua" was a very common name\Nin ancient Mesopotamia.
+Dialogue: 0,0:18:47.58,0:18:50.00,Default,,0,0,0,,Wait, so we're half-Mesopotamian?!
+Dialogue: 0,0:18:50.00,0:18:52.16,Default,,0,0,0,,Today is just full of all sorts of surprises.
+Dialogue: 0,0:18:51.45,0:18:51.75,Default,,0,0,0,,{\an8}CLICK
+Dialogue: 0,0:18:52.16,0:18:55.79,Default,,0,0,0,,But I saw a lot of documents around here\Nthat listed our dad's name as "Taro Yoshida"!
+Dialogue: 0,0:18:55.79,0:18:59.33,Default,,0,0,0,,"Taro Yoshida" was a codename\Nthat your father used while working here in the city.
+Dialogue: 0,0:18:59.33,0:19:00.00,Default,,0,0,0,,"Codename"?!
+Dialogue: 0,0:19:00.25,0:19:02.50,Default,,0,0,0,,We came up with "Yoshida"\Nby changing a few letters of "Joshua."
+Dialogue: 0,0:19:02.79,0:19:05.00,Default,,0,0,0,,You never considered changing more than just a few?
+Dialogue: 0,0:19:06.33,0:19:06.95,Default,,0,0,0,,Mikan.
+Dialogue: 0,0:19:07.87,0:19:10.04,Default,,0,0,0,,I'm sorry I never consulted with you about my sister.
+Dialogue: 0,0:19:10.83,0:19:13.16,Default,,0,0,0,,Even though I knew she was\Na really important person to you, too.
+Dialogue: 0,0:19:13.16,0:19:14.66,Default,,0,0,0,,It's fine, don't worry about it.
+Dialogue: 0,0:19:15.16,0:19:18.29,Default,,0,0,0,,You were just trying to be considerate\Nby not aggravating my curse, right?
+Dialogue: 0,0:19:18.58,0:19:21.41,Default,,0,0,0,,Sometimes you seem apathetic about things,\Nbut I know you're actually quite considerate.
+Dialogue: 0,0:19:22.37,0:19:23.54,Default,,0,0,0,,I suppose.
+Dialogue: 0,0:19:25.87,0:19:29.04,Default,,0,0,0,,I think you should let your true self shine\Na little more from now on.
+Dialogue: 0,0:19:29.33,0:19:30.33,Default,,0,0,0,,Keep things simple.
+Dialogue: 0,0:19:31.20,0:19:32.33,Default,,0,0,0,,The time cometh.
+Dialogue: 0,0:19:32.33,0:19:33.70,Default,,0,0,0,,Go on, have some fruit.
+Dialogue: 0,0:19:33.70,0:19:34.29,Default,,0,0,0,,Okay.
+Dialogue: 0,0:19:35.08,0:19:35.87,Default,,0,0,0,,These are sour.
+Dialogue: 0,0:19:35.87,0:19:37.33,Default,,0,0,0,,That's what makes them so tasty.
+Dialogue: 0,0:19:39.29,0:19:42.41,Default,,0,0,0,,After a bunch of crazy stuff happening,\Nour first semester is finally coming to an end.
+Dialogue: 0,0:19:43.29,0:19:44.83,Default,,0,0,0,,Excuse me, Shadow Mistress?
+Dialogue: 0,0:19:44.83,0:19:47.04,Default,,0,0,0,,Are you doing your vacation homework already?
+Dialogue: 0,0:19:47.04,0:19:47.62,Default,,0,0,0,,No.
+Dialogue: 0,0:19:47.79,0:19:49.41,Default,,0,0,0,,This is a letter of challenge.
+Dialogue: 0,0:19:49.41,0:19:53.75,Default,,0,0,0,,There's a Magical Girl in Class A, Momo Chiyoda,\Nwho I want to become a denizen of darkness.
+Dialogue: 0,0:19:53.75,0:19:55.37,Default,,0,0,0,,So I'm going to challenge her again!
+Dialogue: 0,0:19:55.37,0:20:02.83,Default,,0,0,0,,{\an8}LETTER OF CHALLENGE:\N{\an8}DEAR MAGICAL GIRL MOMO CHIYODA,\N{\an8}TODAY WILL BE THE DAY I DEFEAT YOU AND MAKE YOU MINE.\N{\an8}FUWAHAHAHAHA!
+Dialogue: 0,0:19:55.37,0:19:58.04,Default,,0,0,0,,"Letter of Challenge: Dear Magical Girl Momo Chiyoda...
+Dialogue: 0,0:19:58.04,0:20:01.58,Default,,0,0,0,,{\an8}A letter of challenge, huh?\NWell, do your best to make it really nice.
+Dialogue: 0,0:19:58.04,0:20:01.58,Default,,0,0,0,,...Today will be the day I defeat you and make you mine.
+Dialogue: 0,0:20:01.58,0:20:02.83,Default,,0,0,0,,Fuwahahaha."
+Dialogue: 0,0:20:03.00,0:20:06.16,Default,,0,0,0,,Though speaking as your teacher,\NI'm afraid I couldn't give this a passing grade.
+Dialogue: 0,0:20:03.08,0:20:03.83,Default,,0,0,0,,{\an8}FLAP
+Dialogue: 0,0:20:06.25,0:20:06.70,Default,,0,0,0,,{\an7}CLATTER
+Dialogue: 0,0:20:06.29,0:20:07.08,Default,,0,0,0,,Why?!
+Dialogue: 0,0:20:07.08,0:20:09.20,Default,,0,0,0,,Because organizing duels is against the law.
+Dialogue: 0,0:20:09.20,0:20:09.79,Default,,0,0,0,,{\an8}GAH!
+Dialogue: 0,0:20:09.20,0:20:09.79,Default,,0,0,0,,Gah!
+Dialogue: 0,0:20:09.87,0:20:10.83,Default,,0,0,0,,Oh?
+Dialogue: 0,0:20:10.83,0:20:15.33,Default,,0,0,0,,Our class is already finished for today.\NI came here to see what Shamiko was up to.
+Dialogue: 0,0:20:15.33,0:20:17.41,Default,,0,0,0,,It looks like she's practicing\Nhow to write a letter or something.
+Dialogue: 0,0:20:17.41,0:20:18.41,Default,,0,0,0,,{\an7}SCRIBBLE\N{\an7}SCRIBBLE\N{\an7}SCRIBBLE
+Dialogue: 0,0:20:17.66,0:20:20.83,Default,,0,0,0,,I think it would be better if you picked some\Ncuter letterhead than that old paper you were using.
+Dialogue: 0,0:20:18.41,0:20:19.41,Default,,0,0,0,,{\an8}SCRIBBLE\N{\an9}SCRIBBLE\N{\an9}SCRIBBLE
+Dialogue: 0,0:20:19.41,0:20:20.41,Default,,0,0,0,,{\an7}SCRIBBLE\N{\an7}SCRIBBLE\N{\an7}SCRIBBLE
+Dialogue: 0,0:20:20.41,0:20:21.41,Default,,0,0,0,,{\an8}SCRIBBLE\N{\an9}SCRIBBLE\N{\an9}SCRIBBLE
+Dialogue: 0,0:20:20.83,0:20:21.41,Default,,0,0,0,,Right.
+Dialogue: 0,0:20:21.41,0:20:22.41,Default,,0,0,0,,{\an7}SCRIBBLE\N{\an7}SCRIBBLE\N{\an7}SCRIBBLE
+Dialogue: 0,0:20:21.41,0:20:24.91,Default,,0,0,0,,You should start it with a friendly seasonal greeting\Nand then at the end write something considerate.
+Dialogue: 0,0:20:22.41,0:20:23.41,Default,,0,0,0,,{\an8}SCRIBBLE\N{\an9}SCRIBBLE\N{\an9}SCRIBBLE
+Dialogue: 0,0:20:23.41,0:20:24.41,Default,,0,0,0,,{\an7}SCRIBBLE\N{\an7}SCRIBBLE\N{\an7}SCRIBBLE
+Dialogue: 0,0:20:24.41,0:20:25.37,Default,,0,0,0,,{\an8}SCRIBBLE\N{\an9}SCRIBBLE\N{\an9}SCRIBBLE
+Dialogue: 0,0:20:24.91,0:20:25.41,Default,,0,0,0,,Right.
+Dialogue: 0,0:20:25.37,0:20:28.33,Default,,0,0,0,,{\an8\pos(530,508)}To: Momo
+Dialogue: 0,0:20:25.79,0:20:26.91,Default,,0,0,0,,I finished it!
+Dialogue: 0,0:20:27.50,0:20:28.87,Default,,0,0,0,,{\an8}Gallantly, I demand a duel
+Dialogue: 0,0:20:28.87,0:20:30.45,Default,,0,0,0,,{\an8}I go at it, but I lose
+Dialogue: 0,0:20:30.45,0:20:31.66,Default,,0,0,0,,{\an8}It's beyond disappointing
+Dialogue: 0,0:20:30.66,0:20:34.79,Default,,0,0,0,,Um, teacher, don't you think this pushes the envelope\Na bit too much for a letter of challenge?
+Dialogue: 0,0:20:31.66,0:20:33.20,Default,,0,0,0,,{\an8}Shift away from that grief
+Dialogue: 0,0:20:33.29,0:20:34.62,Default,,0,0,0,,{\an8}Even when I’m feeling curt
+Dialogue: 0,0:20:34.62,0:20:36.50,Default,,0,0,0,,{\an8}I’ll express myself with that tail
+Dialogue: 0,0:20:34.79,0:20:35.70,Default,,0,0,0,,Cute!
+Dialogue: 0,0:20:34.91,0:20:37.33,Default,,0,0,0,,{\an8\pos(458,208)}Cute!
+Dialogue: 0,0:20:35.70,0:20:37.33,Default,,0,0,0,,But dear, envelopes are stationary.
+Dialogue: 0,0:20:38.70,0:20:40.08,Default,,0,0,0,,{\an8}There's a party in the neighborhood
+Dialogue: 0,0:20:40.16,0:20:41.66,Default,,0,0,0,,{\an8}Even the dogs are going bow-wow
+Dialogue: 0,0:20:40.29,0:20:41.50,Default,,0,0,0,,Hey, Momo!
+Dialogue: 0,0:20:41.66,0:20:42.95,Default,,0,0,0,,{\an8}Each and every last one
+Dialogue: 0,0:20:41.66,0:20:43.87,Default,,0,0,0,,Oh good, I'm glad you haven't gone home yet.
+Dialogue: 0,0:20:42.95,0:20:44.41,Default,,0,0,0,,{\an8}For all four seasons
+Dialogue: 0,0:20:43.87,0:20:45.25,Default,,0,0,0,,You should read this!
+Dialogue: 0,0:20:44.41,0:20:47.70,Default,,0,0,0,,{\an8}When you fail just laugh it off
+Dialogue: 0,0:20:45.25,0:20:48.20,Default,,0,0,0,,Huh? Why are you wearing a different color than normal?
+Dialogue: 0,0:20:47.79,0:20:54.20,Default,,0,0,0,,{\an8}Connecting our hearts like that time once before
+Dialogue: 0,0:20:48.20,0:20:50.62,Default,,0,0,0,,Am I not allowed to change my wardrobe a little?
+Dialogue: 0,0:20:50.62,0:20:52.08,Default,,0,0,0,,I think I like this more than the usual.
+Dialogue: 0,0:20:52.08,0:20:55.04,Default,,0,0,0,,{\an8\pos(530,480)}To: Momo
+Dialogue: 0,0:20:53.25,0:20:54.33,Default,,0,0,0,,Just read it!
+Dialogue: 0,0:20:54.33,0:20:55.04,Default,,0,0,0,,A letter?
+Dialogue: 0,0:20:54.62,0:21:00.04,Default,,0,0,0,,{\an8}With the miracle that we met in this town
+Dialogue: 0,0:20:55.04,0:21:04.70,Default,,0,0,0,,{\an7}Dearest Momo,\N{\an7}How is the heat of summer treating you?\N{\an7}You seemed a bit down in the dumps a few\N{\an7}days ago, so I'm showing some demonic concern\N{\an7}for you.
+Dialogue: 0,0:20:55.04,0:20:58.83,Default,,0,0,0,,"Dearest Momo, how is the heat of summer treating you?"
+Dialogue: 0,0:20:59.08,0:21:04.00,Default,,0,0,0,,"You seemed a bit down in the dumps a few days ago,\Nso I'm showing some demonic concern for you."
+Dialogue: 0,0:21:04.37,0:21:06.37,Default,,0,0,0,,Shamiko, does this mean you're worried about me?
+Dialogue: 0,0:21:05.62,0:21:06.75,Default,,0,0,0,,{\an8}Grant this wish
+Dialogue: 0,0:21:06.62,0:21:08.41,Default,,0,0,0,,No! Just stop, I changed my mind!
+Dialogue: 0,0:21:06.75,0:21:09.54,Default,,0,0,0,,{\an8}Shoulder those tires and go full throttle
+Dialogue: 0,0:21:08.41,0:21:10.29,Default,,0,0,0,,Don't read it until I'm not here!
+Dialogue: 0,0:21:09.54,0:21:12.37,Default,,0,0,0,,{\an8}Warning, there's still crises to manage, so enjoy
+Dialogue: 0,0:21:12.25,0:21:17.00,Default,,0,0,0,,{\an7}As of now, we're openly\N{\an7}cooperating with each other\N{\an7}to help find your sister.
+Dialogue: 0,0:21:12.25,0:21:17.00,Default,,0,0,0,,As of now we're openly cooperating with each other\Nto help find your sister.
+Dialogue: 0,0:21:12.37,0:21:17.91,Default,,0,0,0,,{\an8}Various blooming colors are spilling off the canvas
+Dialogue: 0,0:21:17.00,0:21:20.70,Default,,0,0,0,,{\an7}However, you should be aware\N{\an7}that I have not given up on my plan\N{\an7}to make you my vassal!
+Dialogue: 0,0:21:17.16,0:21:20.70,Default,,0,0,0,,However, you should be aware that I have not given up\Non my plan to make you my vassal!
+Dialogue: 0,0:21:17.91,0:21:20.79,Default,,0,0,0,,{\an8}Now its sunset, don't bother thinking too much
+Dialogue: 0,0:21:20.70,0:21:28.66,Default,,0,0,0,,{\an7}Today is a day of pause, the closing ceremony\N{\an7}of our first semester. I would like you to put\N{\an7}our training on hold for today and instead\N{\an7}surrender leadership to me.
+Dialogue: 0,0:21:20.79,0:21:23.04,Default,,0,0,0,,{\an8}Just go on!
+Dialogue: 0,0:21:21.04,0:21:23.91,Default,,0,0,0,,Today is a day of pause,\Nthe closing ceremony for our first semester.
+Dialogue: 0,0:21:23.20,0:21:27.79,Default,,0,0,0,,{\an8}Come on, our compiled dreams can be any color
+Dialogue: 0,0:21:24.04,0:21:28.66,Default,,0,0,0,,I would like you to put our training on hold for today\Nand instead surrender leadership to me.
+Dialogue: 0,0:21:27.91,0:21:29.58,Default,,0,0,0,,{\an8}So let's play some more
+Dialogue: 0,0:21:29.29,0:21:32.08,Default,,0,0,0,,Heed me, Magical Girl! The era of depravity is upon you!
+Dialogue: 0,0:21:29.37,0:21:35.62,Default,,0,0,0,,{\an8\pos(1066,4)}Heed me, Magical Girl!\N{\an9}The era of depravity\N{\an9}is upon you!!
+Dialogue: 0,0:21:32.08,0:21:34.91,Default,,0,0,0,,Come alone to the riverbank at 3:00 PM this afternoon!
+Dialogue: 0,0:21:32.12,0:21:35.62,Default,,0,0,0,,{\an7}Come alone to the riverbank\N{\an7}at 3:00 PM this afternoon!
+Dialogue: 0,0:21:34.91,0:21:35.62,Default,,0,0,0,,Sincerely yours.
+Dialogue: 0,0:21:34.91,0:21:35.62,Default,,0,0,0,,{\an7}Sincerely yours.
+Dialogue: 0,0:21:34.95,0:21:36.41,Default,,0,0,0,,{\an8}The time comes quickly
+Dialogue: 0,0:21:35.62,0:21:41.25,Default,,0,0,0,,{\an9}P.S. It's hot outside.\N{\an8}Please wear something\N{\an9}light and easy\N{\an9}to move in, to avoid\N{\an8}suffering in the heat.
+Dialogue: 0,0:21:36.25,0:21:41.25,Default,,0,0,0,,P.S. It's hot outside. Please wear something light\Nand easy to move in, to avoid suffering the heat.
+Dialogue: 0,0:21:36.41,0:21:37.79,Default,,0,0,0,,{\an8}Oversleeping peacefully
+Dialogue: 0,0:21:37.79,0:21:39.12,Default,,0,0,0,,{\an8}Well, it's fine for now
+Dialogue: 0,0:21:39.12,0:21:40.62,Default,,0,0,0,,{\an8}Going to bed is routine
+Dialogue: 0,0:21:40.62,0:21:41.95,Default,,0,0,0,,{\an8}Sleeping children will grow
+Dialogue: 0,0:21:41.25,0:21:44.04,Default,,0,0,0,,{\an7}I have no idea\N{\an7}what she's trying\N{\an7}to say with all this...
+Dialogue: 0,0:21:41.54,0:21:43.91,Default,,0,0,0,,I have no idea what she's trying to say with all this...
+Dialogue: 0,0:21:41.95,0:21:43.79,Default,,0,0,0,,{\an8}Even their horns get tough
+Dialogue: 0,0:21:44.16,0:21:44.37,Default,,0,0,0,,{\an8}HEH...
+Dialogue: 0,0:21:44.16,0:21:45.54,Default,,0,0,0,,Heh, heh, heh...
+Dialogue: 0,0:21:44.75,0:21:44.95,Default,,0,0,0,,{\an9}HEH...
+Dialogue: 0,0:21:45.54,0:21:48.95,Default,,0,0,0,,Momo must be reading through\Nmy letter of challenge right now.
+Dialogue: 0,0:21:46.20,0:21:47.62,Default,,0,0,0,,{\an8}The cat corners its prey and bites
+Dialogue: 0,0:21:46.25,0:21:46.50,Default,,0,0,0,,{\an8}HEH...
+Dialogue: 0,0:21:47.00,0:21:47.25,Default,,0,0,0,,{\an9}HEH...
+Dialogue: 0,0:21:47.62,0:21:49.08,Default,,0,0,0,,{\an8}Surprisingly this is the right way
+Dialogue: 0,0:21:48.50,0:21:48.75,Default,,0,0,0,,{\an8}HEH...
+Dialogue: 0,0:21:49.08,0:21:50.37,Default,,0,0,0,,{\an8}It happened unexpectedly
+Dialogue: 0,0:21:49.25,0:21:49.50,Default,,0,0,0,,{\an9}HEH...
+Dialogue: 0,0:21:49.29,0:21:53.58,Default,,0,0,0,,Just wait, Magical Girl! Today will mark\Nthe beginning of a new kinship between us!
+Dialogue: 0,0:21:50.00,0:21:50.25,Default,,0,0,0,,{\an8}HEH...
+Dialogue: 0,0:21:50.37,0:21:51.70,Default,,0,0,0,,{\an8}A sudden turning
+Dialogue: 0,0:21:50.75,0:21:51.00,Default,,0,0,0,,{\an8}HEH...
+Dialogue: 0,0:21:51.50,0:21:51.75,Default,,0,0,0,,{\an9}HEH...
+Dialogue: 0,0:21:51.70,0:21:53.50,Default,,0,0,0,,{\an8}Is this a case of sink or swim?
+Dialogue: 0,0:21:52.25,0:21:52.54,Default,,0,0,0,,{\an8}HEH...
+Dialogue: 0,0:21:53.04,0:21:53.29,Default,,0,0,0,,{\an8}HEH...
+Dialogue: 0,0:21:53.50,0:21:55.16,Default,,0,0,0,,{\an8}Okay, then let's go along!
+Dialogue: 0,0:21:53.79,0:21:54.04,Default,,0,0,0,,{\an9}HEH...
+Dialogue: 0,0:21:55.16,0:22:01.79,Default,,0,0,0,,{\an8}Connecting our hearts again like that time once before
+Dialogue: 0,0:21:55.16,0:21:56.62,Default,,0,0,0,,I really don't understand.
+Dialogue: 0,0:21:57.04,0:21:58.66,Default,,0,0,0,,Oh hey! It's Momochiyo!
+Dialogue: 0,0:21:58.66,0:22:00.91,Default,,0,0,0,,What's up? You've got a huge smile on your face.
+Dialogue: 0,0:22:00.91,0:22:02.29,Default,,0,0,0,,I'm not sure I'd call this a smile.
+Dialogue: 0,0:22:02.25,0:22:07.70,Default,,0,0,0,,{\an8}The wish we embraced was a miracle
+Dialogue: 0,0:22:02.41,0:22:07.16,Default,,0,0,0,,I got this letter from Shamiko, but the contents\Nare all over the place. I wasn't sure what she wanted.
+Dialogue: 0,0:22:07.75,0:22:11.50,Default,,0,0,0,,But I think she wants to skip our training session\Nand go out for fun somewhere instead.
+Dialogue: 0,0:22:11.50,0:22:13.41,Default,,0,0,0,,Oh yeah? That's great!
+Dialogue: 0,0:22:13.00,0:22:14.20,Default,,0,0,0,,{\an8}It shines
+Dialogue: 0,0:22:13.41,0:22:15.66,Default,,0,0,0,,I'm so happy for you, Chiyoda.
+Dialogue: 0,0:22:14.20,0:22:16.95,Default,,0,0,0,,{\an8}Transform, blooming in full glory
+Dialogue: 0,0:22:16.95,0:22:19.79,Default,,0,0,0,,{\an8}Jumpin' we join hands and enjoy
+Dialogue: 0,0:22:19.79,0:22:25.37,Default,,0,0,0,,{\an8}Sometimes withering, but still able to bud
+Dialogue: 0,0:22:22.37,0:22:24.41,Default,,0,0,0,,Many ages have passed since the era of myth,
+Dialogue: 0,0:22:24.41,0:22:28.91,Default,,0,0,0,,yet the Dark Clan have remained oppressed\Nby the forces of the Light Clan through the current day.
+Dialogue: 0,0:22:25.37,0:22:26.58,Default,,0,0,0,,{\an8}Game set? Not yet!
+Dialogue: 0,0:22:26.58,0:22:28.25,Default,,0,0,0,,{\an8}Connect into tomorrow
+Dialogue: 0,0:22:28.25,0:22:30.33,Default,,0,0,0,,{\an8}And into the sky!
+Dialogue: 0,0:22:29.41,0:22:31.04,Default,,0,0,0,,However, one rumor is spreading.
+Dialogue: 0,0:22:30.58,0:22:35.25,Default,,0,0,0,,{\an8}Look, far off dreams sketched all around
+Dialogue: 0,0:22:31.04,0:22:34.83,Default,,0,0,0,,That a city exists under the protection of the strongest\NMagical Girl who has parted from tradition
+Dialogue: 0,0:22:34.83,0:22:38.83,Default,,0,0,0,,and created a special place where both\Nthe Dark Clan and the Light Clan can coexist peacefully.
+Dialogue: 0,0:22:35.25,0:22:37.08,Default,,0,0,0,,{\an8}I'll show you
+Dialogue: 0,0:22:37.50,0:22:41.91,Default,,0,0,0,,{\an8}The colors dancing vividly
+Dialogue: 0,0:22:38.83,0:22:40.83,Default,,0,0,0,,It lies somewhere in the far east.
+Dialogue: 0,0:22:41.04,0:22:45.37,Default,,0,0,0,,Its citizens are used to all sorts of craziness,\Nand have the ability to shake off nearly anything.
+Dialogue: 0,0:22:41.91,0:22:44.66,Default,,0,0,0,,{\an8}Always chasing after them
+Dialogue: 0,0:22:42.83,0:22:45.20,Default,,0,0,0,,{\an8\pos(1014,116)}Pure Tea House\N{\an8}Asura
+Dialogue: 0,0:22:44.66,0:22:51.54,Default,,0,0,0,,{\an8}Because I want to grab hold
+Dialogue: 0,0:22:45.83,0:22:49.91,Default,,0,0,0,,From an outsider's perspective,\NSeiiki-sakuragaoka is quite the peculiar town indeed.
+Dialogue: 0,0:22:52.62,0:22:54.25,Default,,0,0,0,,I'm heading out, Mom!
+Dialogue: 0,0:22:53.54,0:22:54.91,Default,,0,0,0,,{\an8}YOSHIDA
+Dialogue: 0,0:22:54.25,0:22:54.91,Default,,0,0,0,,Yuko!
+Dialogue: 0,0:22:54.91,0:22:57.66,Default,,0,0,0,,{\an8}Even in adversity don't wind up that tail
+Dialogue: 0,0:22:55.00,0:22:55.95,Default,,0,0,0,,Yeah?
+Dialogue: 0,0:22:56.58,0:22:59.12,Default,,0,0,0,,I imagine you probably don't remember this...
+Dialogue: 0,0:22:57.66,0:23:00.50,Default,,0,0,0,,{\an8}A twinkling star reaches out sharply
+Dialogue: 0,0:22:59.58,0:23:02.54,Default,,0,0,0,,...but there's something\Nthat your father used to say to you.
+Dialogue: 0,0:23:00.50,0:23:07.66,Default,,0,0,0,,{\an8}If I could be a little stronger than I am today
+Dialogue: 0,0:23:09.29,0:23:16.29,Default,,0,0,0,,{\an8\pos(522,204)}Tama River
+Dialogue: 0,0:23:10.50,0:23:12.41,Default,,0,0,0,,I'm impressed you showed up, Momo Chiyoda!
+Dialogue: 0,0:23:12.20,0:23:15.20,Default,,0,0,0,,{\an8}But blow my top and face a tempest of punishment
+Dialogue: 0,0:23:12.41,0:23:16.29,Default,,0,0,0,,Today is the day we celebrate your descent\Ninto darkness! The festivities are about to begin!
+Dialogue: 0,0:23:15.20,0:23:18.04,Default,,0,0,0,,{\an8}Disappointed? I'm throwing it again, so enjoy
+Dialogue: 0,0:23:16.29,0:23:19.08,Default,,0,0,0,,{\an9}Da\N{\an8}da\N{\an8}da\N{\an8}duuuun...
+Dialogue: 0,0:23:16.29,0:23:17.83,Default,,0,0,0,,Da, da, da, duuun!
+Dialogue: 0,0:23:18.04,0:23:23.58,Default,,0,0,0,,{\an8}Various blooming colors are spilling off the canvas
+Dialogue: 0,0:23:20.00,0:23:21.45,Default,,0,0,0,,What the heck is up with your outfit?!
+Dialogue: 0,0:23:21.45,0:23:23.75,Default,,0,0,0,,I thought I told you to wear something easy to move in!
+Dialogue: 0,0:23:23.58,0:23:26.37,Default,,0,0,0,,{\an8}Now its sunset, don't bother thinking too much
+Dialogue: 0,0:23:26.37,0:23:28.83,Default,,0,0,0,,Just go on!
+Dialogue: 0,0:23:28.91,0:23:33.41,Default,,0,0,0,,Come on, our compiled dreams can be any color
+Dialogue: 0,0:23:29.83,0:23:33.58,Default,,0,0,0,,{\an7}Thought they were\N{\an7}going out to have fun.\N{\an9}Thought they were\N{\an8}going to have a duel.
+Dialogue: 0,0:23:33.58,0:23:35.50,Default,,0,0,0,,So keep on going
+Dialogue: 0,0:23:38.33,0:23:39.83,Default,,0,0,0,,Don't give up, Yuko.
+Dialogue: 0,0:23:42.00,0:23:45.58,Default,,0,0,0,,Become the strongest\Nand most loving girl in the entire world.

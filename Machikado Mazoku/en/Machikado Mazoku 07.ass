@@ -1,0 +1,628 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:12.00,Default,,0,0,0,,{\an8\pos(1056,518)}Yuko Yoshida (15 years old)
+Dialogue: 0,0:00:01.54,0:00:04.00,Default,,0,0,0,,One day, a 15-year-old girl named Yuko suddenly awoke
+Dialogue: 0,0:00:04.00,0:00:07.00,Default,,0,0,0,,as a Demon Girl by sprouting a tail and horns.
+Dialogue: 0,0:00:04.29,0:00:12.00,Default,,0,0,0,,{\an8}A RECAP OF THE EVENTS\N{\an8}UNTIL NOW
+Dialogue: 0,0:00:07.12,0:00:09.66,Default,,0,0,0,,In fact, her family are descendants of the Dark Clan
+Dialogue: 0,0:00:09.66,0:00:12.00,Default,,0,0,0,,that has existed since ancient times.
+Dialogue: 0,0:00:12.12,0:00:14.29,Default,,0,0,0,,Thou hast inherited the blood of the dark ones.
+Dialogue: 0,0:00:13.79,0:00:20.58,Default,,0,0,0,,{\an8\pos(920,554)}Title: Shadow Mistress Yuko
+Dialogue: 0,0:00:14.29,0:00:16.45,Default,,0,0,0,,I dub thee Shadow Mistress Yuko!
+Dialogue: 0,0:00:16.45,0:00:18.62,Default,,0,0,0,,Thou must vanquish a Magical Girl who lives in this town,
+Dialogue: 0,0:00:18.62,0:00:20.45,Default,,0,0,0,,and restore our clan to its former glory!
+Dialogue: 0,0:00:21.00,0:00:26.58,Default,,0,0,0,,Charged with the duty of undoing the seal upon her\Nfamily by defeating a Magical Girl, she begins her quest.
+Dialogue: 0,0:00:27.04,0:00:31.00,Default,,0,0,0,,In the middle of her adventure, Shadow Mistress Yuko\Nwas overwhelmed by fierce hunger and exhaustion.
+Dialogue: 0,0:00:31.00,0:00:32.95,Default,,0,0,0,,It was then that a helping hand was offered to her.
+Dialogue: 0,0:00:32.95,0:00:39.29,Default,,0,0,0,,{\an8\pos(964,312)}Magical Girl\N{\an8}Momo Chiyoda
+Dialogue: 0,0:00:33.33,0:00:35.20,Default,,0,0,0,,You looked like you were hungry.
+Dialogue: 0,0:00:35.20,0:00:39.29,Default,,0,0,0,,However, that hand belong to none\Nother than her mortal enemy: a Magical Girl!
+Dialogue: 0,0:00:39.29,0:00:41.75,Default,,0,0,0,,{\an8}DON'T THINK THIS MEANS YOU'VE WON!!
+Dialogue: 0,0:00:41.75,0:00:44.29,Default,,0,0,0,,{\an7\pos(126,346)}A Reliable Informant\N{\an7}Anri
+Dialogue: 0,0:00:42.16,0:00:44.29,Default,,0,0,0,,If you need a job, just say the word!
+Dialogue: 0,0:00:44.29,0:00:46.54,Default,,0,0,0,,Sis! Thank you!
+Dialogue: 0,0:00:44.29,0:00:46.54,Default,,0,0,0,,{\an8\pos(956,16)}A Precious Sister\N{\an8}Waiting in the Homeland - Ryoko
+Dialogue: 0,0:00:46.54,0:00:50.54,Default,,0,0,0,,{\an7\pos(120,340)}The Eternal Queen of Darkness\N{\an7}Shamiko's Mighty Ancestor\N{\an7}Empress Lilith
+Dialogue: 0,0:00:46.83,0:00:48.87,Default,,0,0,0,,{\an8}Are you shaking in your boots, Magical Girl?
+Dialogue: 0,0:00:48.87,0:00:50.54,Default,,0,0,0,,{\an8}This is the true extent of my power!
+Dialogue: 0,0:00:50.54,0:00:51.95,Default,,0,0,0,,{\an8\pos(1022,402)}Just a Dog Passing By
+Dialogue: 0,0:00:52.08,0:00:53.41,Default,,0,0,0,,Daring tactics.
+Dialogue: 0,0:00:53.41,0:00:55.37,Default,,0,0,0,,You can't fool me, you assassin!
+Dialogue: 0,0:00:55.37,0:00:56.45,Default,,0,0,0,,Deadly struggles.
+Dialogue: 0,0:00:56.45,0:00:59.08,Default,,0,0,0,,Let's obliterate them into nothing.\NAnd then just forget about everything!
+Dialogue: 0,0:00:59.08,0:01:00.95,Default,,0,0,0,,Or some scenes kind of like that.
+Dialogue: 0,0:01:00.95,0:01:02.62,Default,,0,0,0,,Ask me anything you wish!
+Dialogue: 0,0:01:02.75,0:01:06.00,Default,,0,0,0,,Fancy action scenes complete with\Nslow motion and dramatic camera work
+Dialogue: 0,0:01:06.00,0:01:08.12,Default,,0,0,0,,that spins around while it happens.
+Dialogue: 0,0:01:08.62,0:01:12.87,Default,,0,0,0,,Don't give up, Shamiko!\NYour glorious battle has only just begun!
+Dialogue: 0,0:01:15.08,0:01:16.95,Default,,0,0,0,,This whole recap is totally wrong!
+Dialogue: 0,0:01:16.95,0:01:20.33,Default,,0,0,0,,Well, I wanted to record all of your feats\Nthus far into my memory.
+Dialogue: 0,0:01:20.33,0:01:21.33,Default,,0,0,0,,Did you not enjoy it?
+Dialogue: 0,0:01:21.33,0:01:22.70,Default,,0,0,0,,It was a complete misrepresentation!
+Dialogue: 0,0:01:22.70,0:01:24.54,Default,,0,0,0,,For starters, I have no idea\Nwhere that even took place in!
+Dialogue: 0,0:01:24.70,0:01:28.41,Default,,0,0,0,,And I definitely never wore a weird cape like that!\NTama City is just an ordinary residential development!
+Dialogue: 0,0:01:28.58,0:01:31.41,Default,,0,0,0,,If a giant mushroom like this grew in the middle\Nof the city it would be a huge problem!
+Dialogue: 0,0:01:31.66,0:01:34.33,Default,,0,0,0,,And there were a whole bunch of parts in the second half\Nthat I don't even remember happening!
+Dialogue: 0,0:01:34.33,0:01:35.75,Default,,0,0,0,,Yeah, but didn't it look super cool?
+Dialogue: 0,0:01:35.75,0:01:36.91,Default,,0,0,0,,It was cool, but...
+Dialogue: 0,0:01:37.20,0:01:42.70,Default,,0,0,0,,{\an8}GOLD
+Dialogue: 0,0:01:37.45,0:01:39.83,Default,,0,0,0,,...the color of the Ancestue\Nwas all wrong for some reason!
+Dialogue: 0,0:01:39.83,0:01:42.70,Default,,0,0,0,,Well, the most important thing\Ndefinitely needs some bling.
+Dialogue: 0,0:01:43.08,0:01:44.70,Default,,0,0,0,,That is so out of date!
+Dialogue: 0,0:01:44.70,0:01:46.33,Default,,0,0,0,,It's okay, Shamiko.
+Dialogue: 0,0:01:46.33,0:01:48.08,Default,,0,0,0,,This is all just a dream that I made.
+Dialogue: 0,0:01:48.50,0:01:50.91,Default,,0,0,0,,Just a dream... just a dream...
+Dialogue: 0,0:01:50.91,0:01:52.58,Default,,0,0,0,,Just a dream...
+Dialogue: 0,0:01:55.75,0:01:56.95,Default,,0,0,0,,It WAS a dream!
+Dialogue: 0,0:02:07.83,0:02:10.54,Default,,0,0,0,,{\an8\pos(666,180)}The Demon Girl Next Door
+Dialogue: 0,0:02:10.54,0:02:13.50,Default,,0,0,0,,Taiyou mabushisugite
+Dialogue: 0,0:02:13.58,0:02:16.33,Default,,0,0,0,,(Chikachika me o kosutta)
+Dialogue: 0,0:02:16.33,0:02:19.25,Default,,0,0,0,,Omowazu tobidashita yo
+Dialogue: 0,0:02:19.33,0:02:21.79,Default,,0,0,0,,(Dokidoki no hajimiari sa)
+Dialogue: 0,0:02:21.79,0:02:27.58,Default,,0,0,0,,Yurayura yureru maegami hidarite de osaetara
+Dialogue: 0,0:02:27.66,0:02:32.16,Default,,0,0,0,,Itsumo no keshiki ga kirameku yo
+Dialogue: 0,0:02:32.25,0:02:33.37,Default,,0,0,0,,(Three, two, one)
+Dialogue: 0,0:02:33.45,0:02:38.41,Default,,0,0,0,,Ima sugu tsutaetai futari no himitsu
+Dialogue: 0,0:02:39.25,0:02:44.91,Default,,0,0,0,,Watashitachi nara dekiru yo
+Dialogue: 0,0:02:42.62,0:02:44.91,Default,,0,0,0,,(Itsumo tonari ni ite)
+Dialogue: 0,0:02:45.00,0:02:46.91,Default,,0,0,0,,Kitto
+Dialogue: 0,0:02:45.50,0:02:47.58,Default,,0,0,0,,(Shijiteru kara)
+Dialogue: 0,0:02:47.58,0:02:53.54,Default,,0,0,0,,Machikado de mitsuketa daiji na takaramono
+Dialogue: 0,0:02:53.62,0:02:59.33,Default,,0,0,0,,Tatoe kimi ga tooku hanaretemo kanarazu oikakeru yo
+Dialogue: 0,0:02:59.41,0:03:05.41,Default,,0,0,0,,Zutto kagayaiteru mirai wa koko ni aru
+Dialogue: 0,0:03:05.54,0:03:10.66,Default,,0,0,0,,Otanoshimi wa kore kara
+Dialogue: 0,0:03:27.00,0:03:32.00,Default,,0,0,0,,{\an8\pos(644,168)}The Pink Method!!\N{\an7}The Wheel of Fate is a Round Tire!!
+Dialogue: 0,0:03:32.12,0:03:34.75,Default,,0,0,0,,Hey, Shamiko. It was a dream,\Nbut it wasn't just any old dream.
+Dialogue: 0,0:03:34.75,0:03:37.87,Default,,0,0,0,,I worked all night to make that wonderful dream\Nand you just outright rejected it!
+Dialogue: 0,0:03:38.00,0:03:39.75,Default,,0,0,0,,I appreciate the thought.
+Dialogue: 0,0:03:40.16,0:03:41.08,Default,,0,0,0,,But you took it way too far!
+Dialogue: 0,0:03:42.41,0:03:44.66,Default,,0,0,0,,At least I know that my Ancestor\Ntalking to me isn't a dream.
+Dialogue: 0,0:03:44.95,0:03:46.54,Default,,0,0,0,,Good morning, Yuko.
+Dialogue: 0,0:03:46.54,0:03:47.54,Default,,0,0,0,,Mornin' Sis!
+Dialogue: 0,0:03:48.83,0:03:50.29,Default,,0,0,0,,I'm headed to school!
+Dialogue: 0,0:03:52.33,0:03:54.45,Default,,0,0,0,,I'm Yuko Yoshida, 15 years old.
+Dialogue: 0,0:03:54.45,0:03:57.87,Default,,0,0,0,,I recently became a novice Demon Girl\Nand set out on a new journey in life.
+Dialogue: 0,0:03:58.58,0:04:03.00,Default,,0,0,0,,The record of my struggles you saw that my Ancestor\Nmade was totally blown out of proportion, but...
+Dialogue: 0,0:04:03.00,0:04:04.62,Default,,0,0,0,,"Then what was it really like?"
+Dialogue: 0,0:04:04.62,0:04:06.45,Default,,0,0,0,,"How much of it was actually true?"
+Dialogue: 0,0:04:06.45,0:04:08.58,Default,,0,0,0,,It's hard to answer those so please don't ask.
+Dialogue: 0,0:04:08.58,0:04:11.00,Default,,0,0,0,,I WILL say that I'm doing my best in my own unique way.
+Dialogue: 0,0:04:11.00,0:04:13.79,Default,,0,0,0,,I think the day I finally make Momo give up\Nand say "Uncle!" is really close at hand!
+Dialogue: 0,0:04:12.33,0:04:14.20,Default,,0,0,0,,{\an7\pos(88,324)}Heh\N{\an7}Heh\N{\an7}Heh
+Dialogue: 0,0:04:12.33,0:04:13.79,Default,,0,0,0,,{\an8}Heh. Heh. Heh.
+Dialogue: 0,0:04:13.79,0:04:14.79,Default,,0,0,0,,G'morning.
+Dialogue: 0,0:04:14.79,0:04:17.58,Default,,0,0,0,,Magical Girl! Why are you here?!\NAre you over your cold already?
+Dialogue: 0,0:04:17.70,0:04:19.91,Default,,0,0,0,,Not yet, I just left home to do some grocery shopping.
+Dialogue: 0,0:04:19.91,0:04:22.91,Default,,0,0,0,,{\an8}Extra Whole Milk\N{\an8}CHICKEN TENDER\N{\an8}SANDWICH
+Dialogue: 0,0:04:19.91,0:04:22.91,Default,,0,0,0,,Your diet seems way too simple.\NI think you should really add-in some vegetables.
+Dialogue: 0,0:04:22.91,0:04:25.66,Default,,0,0,0,,I'm not really interested in making more complex meals.
+Dialogue: 0,0:04:25.83,0:04:27.29,Default,,0,0,0,,Are you worried about me?
+Dialogue: 0,0:04:27.29,0:04:28.45,Default,,0,0,0,,N-not at all!
+Dialogue: 0,0:04:28.45,0:04:30.75,Default,,0,0,0,,I'm just concerned I won't be able\Nto steal as much magic from you!
+Dialogue: 0,0:04:31.00,0:04:34.54,Default,,0,0,0,,Oh, I have an idea! I've been learning\Nhow to cook from my mom lately.
+Dialogue: 0,0:04:34.54,0:04:36.37,Default,,0,0,0,,I'll use you as my guinea pig.
+Dialogue: 0,0:04:36.37,0:04:37.29,Default,,0,0,0,,Heh, heh, heh.
+Dialogue: 0,0:04:37.54,0:04:37.91,Default,,0,0,0,,{\an8\pos(870,84)}Already Gone
+Dialogue: 0,0:04:38.29,0:04:38.66,Default,,0,0,0,,{\an8\pos(870,84)}Already Gone
+Dialogue: 0,0:04:39.04,0:04:39.41,Default,,0,0,0,,{\an8\pos(870,84)}Already Gone
+Dialogue: 0,0:04:39.79,0:04:41.50,Default,,0,0,0,,Wait, damn you! Are you running away?!
+Dialogue: 0,0:04:41.66,0:04:42.54,Default,,0,0,0,,No.
+Dialogue: 0,0:04:42.54,0:04:44.83,Default,,0,0,0,,I'm supposed to be taking a sick day from school\Nso I shouldn't loiter outside.
+Dialogue: 0,0:04:45.08,0:04:46.29,Default,,0,0,0,,But speaking of magic...
+Dialogue: 0,0:04:46.29,0:04:47.33,Default,,0,0,0,,Hm? What's up?
+Dialogue: 0,0:04:47.66,0:04:51.79,Default,,0,0,0,,Based on how much I lost, there should be other\Nchanges aside from Ms. Lilith getting more annoying.
+Dialogue: 0,0:04:52.00,0:04:52.79,Default,,0,0,0,,Huh?
+Dialogue: 0,0:04:56.37,0:04:57.91,Default,,0,0,0,,Hello, you've reached the Yoshida residence.
+Dialogue: 0,0:04:58.04,0:05:00.41,Default,,0,0,0,,Excuse me, I'm an officer from the Tama City Police.
+Dialogue: 0,0:05:00.41,0:05:02.37,Default,,0,0,0,,May I speak with Ms. Seiko Yoshida?
+Dialogue: 0,0:05:02.37,0:05:03.91,Default,,0,0,0,,Yes, that's me.
+Dialogue: 0,0:05:04.45,0:05:05.66,Default,,0,0,0,,I'm home!
+Dialogue: 0,0:05:06.20,0:05:07.87,Default,,0,0,0,,Did something happen, mom?
+Dialogue: 0,0:05:07.87,0:05:09.12,Default,,0,0,0,,It all came back.
+Dialogue: 0,0:05:09.54,0:05:12.75,Default,,0,0,0,,My purse that fell into the gutter\Nand the $1,080 that was inside of it!
+Dialogue: 0,0:05:12.75,0:05:13.54,Default,,0,0,0,,$1,000?!
+Dialogue: 0,0:05:17.16,0:05:20.66,Default,,0,0,0,,Sorry, my entire concept of the universe\Nwas just turned upside down for second.
+Dialogue: 0,0:05:20.95,0:05:24.70,Default,,0,0,0,,I think this is proof that the "$400 a Month" curse\Nhas finally been lifted.
+Dialogue: 0,0:05:24.83,0:05:25.70,Default,,0,0,0,,Huh?
+Dialogue: 0,0:05:26.04,0:05:29.04,Default,,0,0,0,,Coming in contact with a Magical Girl,\None of the priests of the Light Clan...
+Dialogue: 0,0:05:29.41,0:05:32.50,Default,,0,0,0,,Yuko, you have made a major accomplishment!
+Dialogue: 0,0:05:32.83,0:05:36.08,Default,,0,0,0,,Tonight, we shall perform the "ritual"\Nlong passed down in our family!
+Dialogue: 0,0:05:37.62,0:05:38.70,Default,,0,0,0,,{\an9\pos(1050,8)}ZAP
+Dialogue: 0,0:05:38.91,0:05:41.87,Default,,0,0,0,,Mom, you don't mean we're going to do THAT?
+Dialogue: 0,0:05:42.00,0:05:42.83,Default,,0,0,0,,I do!
+Dialogue: 0,0:05:43.54,0:05:45.04,Default,,0,0,0,,The Yoshida family motto!
+Dialogue: 0,0:05:45.04,0:05:48.83,Default,,0,0,0,,"Whenever fortune smiles upon us, that means\Nit is definitely our fate to sit around the hot plate!"
+Dialogue: 0,0:05:49.00,0:05:51.79,Default,,0,0,0,,The power just went out for a second, that was scary...
+Dialogue: 0,0:05:52.00,0:05:54.62,Default,,0,0,0,,So without further ado, I went ahead\Nand purchased groceries for the foreseeable future.
+Dialogue: 0,0:05:54.62,0:05:55.83,Default,,0,0,0,,Let's separate and sort them out.
+Dialogue: 0,0:05:55.83,0:05:56.29,Default,,0,0,0,,Right!
+Dialogue: 0,0:05:56.41,0:05:59.79,Default,,0,0,0,,Cabbage, bonito flakes, flour...
+Dialogue: 0,0:05:59.79,0:06:02.00,Default,,0,0,0,,These are ingredients for the okonomiyaki\Nwe're having tonight!
+Dialogue: 0,0:06:02.29,0:06:03.91,Default,,0,0,0,,There's wieners and yakisoba noodles, too!
+Dialogue: 0,0:06:04.08,0:06:05.83,Default,,0,0,0,,The rest of it is stock for other meals.
+Dialogue: 0,0:06:05.83,0:06:07.66,Default,,0,0,0,,Sliced pork, green onions, yellow onions,
+Dialogue: 0,0:06:07.66,0:06:10.54,Default,,0,0,0,,bean sprouts, eggs, bean sprouts, carrots, bean sprouts,
+Dialogue: 0,0:06:10.54,0:06:13.33,Default,,0,0,0,,pudding, bean sprouts, chicken, chicken, chicken,
+Dialogue: 0,0:06:13.33,0:06:15.16,Default,,0,0,0,,bean sprouts, cucumbers and more bean sprouts.
+Dialogue: 0,0:06:14.45,0:06:15.20,Default,,0,0,0,,{\an8}Bean Sprouts
+Dialogue: 0,0:06:15.37,0:06:19.79,Default,,0,0,0,,I'm sorry. I just couldn't bring myself\Nto actually buy the things that are truly luxurious.
+Dialogue: 0,0:06:19.95,0:06:24.33,Default,,0,0,0,,Although Yuko did remove part of the seal\Nplaced on our family, we still need to take it easy for now.
+Dialogue: 0,0:06:24.66,0:06:28.75,Default,,0,0,0,,Because the truth is that there are still various powers\Nand fortunes of ours that are being held back.
+Dialogue: 0,0:06:28.75,0:06:32.95,Default,,0,0,0,,If we give in to our urges now, we'll only be sad\Nwhen fate adjusts to make us pay for it all later.
+Dialogue: 0,0:06:32.95,0:06:34.04,Default,,0,0,0,,Gulp.
+Dialogue: 0,0:06:34.04,0:06:35.33,Default,,0,0,0,,Fate adjusts to make us pay...
+Dialogue: 0,0:06:35.33,0:06:36.50,Default,,0,0,0,,{\an8}Snap
+Dialogue: 0,0:06:36.04,0:06:38.04,Default,,0,0,0,,Oh no, not our one and only pancake turner!
+Dialogue: 0,0:06:38.04,0:06:39.50,Default,,0,0,0,,Can we still make the okonomiyaki?!
+Dialogue: 0,0:06:39.83,0:06:41.29,Default,,0,0,0,,I'll make do with a wooden spatula!
+Dialogue: 0,0:06:41.29,0:06:42.16,Default,,0,0,0,,Hey Seiko.
+Dialogue: 0,0:06:42.16,0:06:42.62,Default,,0,0,0,,Huh?
+Dialogue: 0,0:06:42.75,0:06:44.79,Default,,0,0,0,,Do you mind if I butt in?
+Dialogue: 0,0:06:44.79,0:06:48.75,Default,,0,0,0,,My husband has told me quite a lot about you,\Nbut this is the first time we've spoken directly.
+Dialogue: 0,0:06:48.75,0:06:51.75,Default,,0,0,0,,N-nice to meet you! I'm Yuko's little sister, Ryoko!
+Dialogue: 0,0:06:52.04,0:06:54.25,Default,,0,0,0,,Yes, I know of you both.
+Dialogue: 0,0:06:54.25,0:06:55.79,Default,,0,0,0,,Although not in much detail.
+Dialogue: 0,0:06:55.79,0:06:58.20,Default,,0,0,0,,I'm shocked we can hear your voice so clearly now.
+Dialogue: 0,0:06:58.20,0:07:02.08,Default,,0,0,0,,Indeed! This means an end to all those days\NI suffered as a doorstop and meat pounder!
+Dialogue: 0,0:07:02.08,0:07:07.95,Default,,0,0,0,,{\an7}Monthly Prattle Magazine\N{\an7}Survival Wits Magazine
+Dialogue: 0,0:07:02.08,0:07:04.62,Default,,0,0,0,,{\an8}Special:\N{\an8}Meals Made Just From Weeds
+Dialogue: 0,0:07:02.66,0:07:05.91,Default,,0,0,0,,Although, because you would always\Nleave me lying around like some kind of dumbbell
+Dialogue: 0,0:07:05.91,0:07:07.95,Default,,0,0,0,,I was able to learn quite a lot about the modern era.
+Dialogue: 0,0:07:08.16,0:07:09.33,Default,,0,0,0,,My apologies.
+Dialogue: 0,0:07:09.33,0:07:10.66,Default,,0,0,0,,Heh, heh, heh, heh, heh...
+Dialogue: 0,0:07:10.66,0:07:14.83,Default,,0,0,0,,Since I've now made a mini-revival, I think it's about time\NI flex my muscle as the family patriarch.
+Dialogue: 0,0:07:14.83,0:07:16.16,Default,,0,0,0,,There's a lot I want to ask you, for starters-
+Dialogue: 0,0:07:16.20,0:07:16.58,Default,,0,0,0,,{\an7}Super Buzz - Mikan Flavor
+Dialogue: 0,0:07:16.58,0:07:17.79,Default,,0,0,0,,Oh, dear Ancestor?
+Dialogue: 0,0:07:17.79,0:07:20.45,Default,,0,0,0,,We're about to have a little celebration right now\Nso could you hold that off until later?
+Dialogue: 0,0:07:20.45,0:07:21.25,Default,,0,0,0,,What is this?
+Dialogue: 0,0:07:21.25,0:07:22.83,Default,,0,0,0,,Just a can of fizzy goodness.
+Dialogue: 0,0:07:22.83,0:07:28.16,Default,,0,0,0,,{\an7}Super Buzz - Mikan Flavor
+Dialogue: 0,0:07:22.83,0:07:25.29,Default,,0,0,0,,I've never seen this before,\Nis it another sweet carbonated beverage?
+Dialogue: 0,0:07:25.29,0:07:27.20,Default,,0,0,0,,I have to admit it's pretty tasty, but...
+Dialogue: 0,0:07:27.45,0:07:28.16,Default,,0,0,0,,Hiccup!
+Dialogue: 0,0:07:28.33,0:07:29.16,Default,,0,0,0,,Ancestor!
+Dialogue: 0,0:07:29.16,0:07:30.58,Default,,0,0,0,,Wha... What the heck is happening?!
+Dialogue: 0,0:07:30.58,0:07:33.45,Default,,0,0,0,,The world is spinning like a top! Was that poison?!
+Dialogue: 0,0:07:33.45,0:07:35.12,Default,,0,0,0,,But it's really addictive...
+Dialogue: 0,0:07:35.12,0:07:36.25,Default,,0,0,0,,It's a canned highball.
+Dialogue: 0,0:07:36.25,0:07:38.29,Default,,0,0,0,,Ancestor, what did you want to talk to us about?
+Dialogue: 0,0:07:38.66,0:07:40.16,Default,,0,0,0,,Hm? Hiccup...
+Dialogue: 0,0:07:40.58,0:07:41.91,Default,,0,0,0,,Oh, Ancestor?
+Dialogue: 0,0:07:41.91,0:07:49.37,Default,,0,0,0,,{\an8\pos(322,16)}SHINSHUU BRAND\N{\an7}DEMON EXTERMINATOR
+Dialogue: 0,0:07:42.54,0:07:43.45,Default,,0,0,0,,Squeak!
+Dialogue: 0,0:07:43.45,0:07:46.58,Default,,0,0,0,,I prepared you a nice sake bath.\NIt's the most luxurious thing you can imagine!
+Dialogue: 0,0:07:44.12,0:07:46.58,Default,,0,0,0,,{\an8}Squeak! Squeak! Squeak!
+Dialogue: 0,0:07:46.66,0:07:47.62,Default,,0,0,0,,Faint...
+Dialogue: 0,0:07:47.62,0:07:49.37,Default,,0,0,0,,ANCESTOR!
+Dialogue: 0,0:07:49.66,0:07:53.25,Default,,0,0,0,,It's party time right now, so please refrain from\Nbringing up any complicated topics of discussion.
+Dialogue: 0,0:07:53.25,0:07:54.91,Default,,0,0,0,,I hope we'll be able to get along well as housemates.
+Dialogue: 0,0:07:54.91,0:07:56.25,Default,,0,0,0,,Okay, great grandmother-in-law?
+Dialogue: 0,0:07:56.25,0:07:58.91,Default,,0,0,0,,Ah... paradise lost.
+Dialogue: 0,0:07:59.58,0:08:02.95,Default,,0,0,0,,I think I'm starting to see\Nthe new balance of power in our family.
+Dialogue: 0,0:08:03.79,0:08:04.70,Default,,0,0,0,,Mom!
+Dialogue: 0,0:08:04.70,0:08:06.75,Default,,0,0,0,,Let me help, I want to learn how to cook.
+Dialogue: 0,0:08:06.75,0:08:09.91,Default,,0,0,0,,Okay, then I'll share with you what I know\Nabout making it as yummy as can be.
+Dialogue: 0,0:08:10.33,0:08:12.95,Default,,0,0,0,,When you're frying up pork, you should let it\Nget back to room temperature just beforehand.
+Dialogue: 0,0:08:12.95,0:08:15.12,Default,,0,0,0,,You should wait to season it with salt and pepper\Nuntil right before you put it on the heat.
+Dialogue: 0,0:08:15.50,0:08:18.04,Default,,0,0,0,,Shitake mushrooms shouldn't be washed,\Nbut rather wiped down with a wet cloth.
+Dialogue: 0,0:08:18.66,0:08:22.41,Default,,0,0,0,,Wow! You sure keep a lot of different things in mind\Nwhen you're cooking, mom!
+Dialogue: 0,0:08:22.41,0:08:25.04,Default,,0,0,0,,Well, my biggest goal is for you and Ryo\Nto grow up nice and healthy
+Dialogue: 0,0:08:25.04,0:08:27.33,Default,,0,0,0,,so all of this is just the natural result\Nof working towards that.
+Dialogue: 0,0:08:27.50,0:08:28.29,Default,,0,0,0,,Hm?
+Dialogue: 0,0:08:29.08,0:08:31.79,Default,,0,0,0,,Could it be? Did you meet someone\Nthat you want to cook for?!
+Dialogue: 0,0:08:32.12,0:08:35.41,Default,,0,0,0,,There's a Magical Girl in the neighborhood\Nwho has a problem with maintaining good nutrition.
+Dialogue: 0,0:08:35.58,0:08:37.12,Default,,0,0,0,,Wait, a Magical Girl?!
+Dialogue: 0,0:08:37.25,0:08:40.16,Default,,0,0,0,,Yeah, I'm worried she'll collapse from malnutrition\Nlong before I have the chance to beat her!
+Dialogue: 0,0:08:42.08,0:08:44.16,Default,,0,0,0,,I hope they're ready soon, I can't wait!
+Dialogue: 0,0:08:44.29,0:08:45.12,Default,,0,0,0,,Oh, that's right.
+Dialogue: 0,0:08:45.12,0:08:48.91,Default,,0,0,0,,There's been a lot going on lately and I ended up\Nagreeing to help a Magical Girl out for a while.
+Dialogue: 0,0:08:48.91,0:08:51.91,Default,,0,0,0,,Is this the same girl that you ran along\Nthe riverbank with the other day?
+Dialogue: 0,0:08:51.91,0:08:53.87,Default,,0,0,0,,That's right! I'll share more details with you later.
+Dialogue: 0,0:08:53.87,0:08:57.16,Default,,0,0,0,,I always figured this might be the path you'd take, Yuko.
+Dialogue: 0,0:08:57.33,0:09:01.20,Default,,0,0,0,,Instead of just beating the Magical Girl,\Nyou'd befriend her in order to release the seal.
+Dialogue: 0,0:09:01.20,0:09:03.12,Default,,0,0,0,,Huh? I wouldn't say I've befriended her.
+Dialogue: 0,0:09:03.12,0:09:05.95,Default,,0,0,0,,It's more like there was so much pressure,\NI had no choice but to agree to help her.
+Dialogue: 0,0:09:05.95,0:09:06.70,Default,,0,0,0,,It was rough.
+Dialogue: 0,0:09:06.70,0:09:07.62,Default,,0,0,0,,"Rough"?
+Dialogue: 0,0:09:07.62,0:09:09.45,Default,,0,0,0,,Ah, I think the food might be ready now!
+Dialogue: 0,0:09:09.45,0:09:11.95,Default,,0,0,0,,It looks so yummy! And it smells great, too.
+Dialogue: 0,0:09:11.95,0:09:13.58,Default,,0,0,0,,Okay, then let's split it up.
+Dialogue: 0,0:09:14.08,0:09:14.79,Default,,0,0,0,,Here.
+Dialogue: 0,0:09:14.79,0:09:15.95,Default,,0,0,0,,Wow! Thanks so much!
+Dialogue: 0,0:09:15.95,0:09:16.50,Default,,0,0,0,,And for you.
+Dialogue: 0,0:09:16.50,0:09:17.33,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:09:17.83,0:09:20.20,Default,,0,0,0,,It's delicious! Super yummy!
+Dialogue: 0,0:09:20.20,0:09:21.66,Default,,0,0,0,,I'm so glad my hard work paid off!
+Dialogue: 0,0:09:21.66,0:09:26.66,Default,,0,0,0,,From now on, I think I can overcome any mountains that\Nget in my way by just remembering this okonomiyaki!
+Dialogue: 0,0:09:27.37,0:09:29.25,Default,,0,0,0,,I'm so glad to hear you're enjoying it.
+Dialogue: 0,0:09:29.37,0:09:32.04,Default,,0,0,0,,It's got mayonnaise, sauce, and bonito flakes on top!
+Dialogue: 0,0:09:32.04,0:09:34.50,Default,,0,0,0,,Not to mention it doesn't have a tofu base,\Nso I can really taste the wheat flour!
+Dialogue: 0,0:09:34.50,0:09:35.70,Default,,0,0,0,,Though I won't deny I like tofu, too.
+Dialogue: 0,0:09:35.70,0:09:37.41,Default,,0,0,0,,That's not exactly a shining endorsement.
+Dialogue: 0,0:09:37.62,0:09:40.16,Default,,0,0,0,,I promise I'll try a little harder\Nto improve your palette from now on!
+Dialogue: 0,0:09:41.12,0:09:42.45,Default,,0,0,0,,I'll serve you up some more, Ryo.
+Dialogue: 0,0:09:42.45,0:09:43.25,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:09:43.25,0:09:44.41,Default,,0,0,0,,No thanks necessary!
+Dialogue: 0,0:09:44.41,0:09:47.62,Default,,0,0,0,,This is all to celebrate your big sister's accomplishment,\Nso feel free to stuff yourself full!
+Dialogue: 0,0:09:47.62,0:09:48.33,Default,,0,0,0,,Ow, hot!
+Dialogue: 0,0:09:48.33,0:09:50.41,Default,,0,0,0,,Um, Sis? I want to help you out, too.
+Dialogue: 0,0:09:50.70,0:09:51.41,Default,,0,0,0,,Huh?
+Dialogue: 0,0:09:52.79,0:09:55.00,Default,,0,0,0,,B-but, Ryo you're still too young.
+Dialogue: 0,0:09:55.00,0:09:57.12,Default,,0,0,0,,And I made Momo conceal her identity from you before.
+Dialogue: 0,0:09:57.25,0:10:00.83,Default,,0,0,0,,Please? I've been reading a lot of books lately\Nand I think I could be of some use!
+Dialogue: 0,0:10:00.83,0:10:03.04,Default,,0,0,0,,My dream is to become your trusted advisor!
+Dialogue: 0,0:10:03.04,0:10:07.08,Default,,0,0,0,,I want to watch from your fortress as you charge\Ninto battle atop a horse, leading an army behind you!
+Dialogue: 0,0:10:07.08,0:10:09.62,Default,,0,0,0,,I told you before, I don't actually\Ncontrol an army and don't have plans to!
+Dialogue: 0,0:10:11.00,0:10:12.62,Default,,0,0,0,,{\pos(634,608)}It's never going to be like this!
+Dialogue: 0,0:10:12.75,0:10:14.62,Default,,0,0,0,,Ancestor, are you okay?
+Dialogue: 0,0:10:14.62,0:10:16.70,Default,,0,0,0,,I'll give you some juice and okonomiyaki.
+Dialogue: 0,0:10:16.70,0:10:18.79,Default,,0,0,0,,Ugh... is that you, Ryoko?
+Dialogue: 0,0:10:19.08,0:10:21.54,Default,,0,0,0,,Pant. Pant...
+Dialogue: 0,0:10:21.54,0:10:24.04,Default,,0,0,0,,I appreciate you being so kind\Nto a little ol' doorstop like me.
+Dialogue: 0,0:10:24.04,0:10:28.62,Default,,0,0,0,,When my full powers have returned, I promise you\Ncontrol over North America after I conquer the world!
+Dialogue: 0,0:10:28.87,0:10:33.50,Default,,0,0,0,,Huh? Sorry, I think that I'd prefer my sister\Nto be the one who holds control over all domains.
+Dialogue: 0,0:10:33.50,0:10:35.12,Default,,0,0,0,,Will you settle for just being the conqueror in name only?
+Dialogue: 0,0:10:35.12,0:10:36.95,Default,,0,0,0,,Huh?! That's driving a hard bargain, don't you think?
+Dialogue: 0,0:10:36.95,0:10:38.95,Default,,0,0,0,,Actually, for someone so modest,\Nyou really don't mince words!
+Dialogue: 0,0:10:39.08,0:10:40.12,Default,,0,0,0,,{\an8\pos(312,162)}Wobble
+Dialogue: 0,0:10:39.08,0:10:40.91,Default,,0,0,0,,Shamiko, would you mind giving me some ice water?
+Dialogue: 0,0:10:40.91,0:10:42.12,Default,,0,0,0,,Sure thing.
+Dialogue: 0,0:10:42.12,0:10:42.91,Default,,0,0,0,,Huh?
+Dialogue: 0,0:10:43.08,0:10:45.95,Default,,0,0,0,,Mom! Something's wrong with the refrigerator!
+Dialogue: 0,0:10:45.95,0:10:47.45,Default,,0,0,0,,It doesn't feel cool!
+Dialogue: 0,0:10:47.45,0:10:47.83,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:10:48.50,0:10:50.83,Default,,0,0,0,,Neither the fridge nor the freezer\Nsound like they're working.
+Dialogue: 0,0:10:50.83,0:10:53.66,Default,,0,0,0,,It is quite old. I wonder if it finally broke down?
+Dialogue: 0,0:10:54.00,0:10:55.66,Default,,0,0,0,,That power outage earlier could be part of it.
+Dialogue: 0,0:10:55.75,0:10:57.91,Default,,0,0,0,,Is this... fate adjusting to make us pay?
+Dialogue: 0,0:10:57.91,0:11:04.79,Default,,0,0,0,,{\an8}Scrub
+Dialogue: 0,0:10:58.04,0:10:59.16,Default,,0,0,0,,It's fine!
+Dialogue: 0,0:10:59.16,0:11:01.58,Default,,0,0,0,,You know, I've really been wanting\None of those fancy, new fridges.
+Dialogue: 0,0:11:01.58,0:11:03.20,Default,,0,0,0,,I'm actually HAPPY that our old one broke on us!
+Dialogue: 0,0:11:03.20,0:11:04.79,Default,,0,0,0,,Mom, have you totally lost it?!
+Dialogue: 0,0:11:05.12,0:11:08.87,Default,,0,0,0,,When that lightning came down earlier,\NI heard something go ZAP.
+Dialogue: 0,0:11:07.16,0:11:11.50,Default,,0,0,0,,{\an9\pos(1062,4)}ZAP
+Dialogue: 0,0:11:08.87,0:11:11.45,Default,,0,0,0,,That must have been the refrigerator's dying breath.
+Dialogue: 0,0:11:11.83,0:11:15.50,Default,,0,0,0,,It'll take a week for a new fridge to be delivered. That's a\Nproblem because right now we're at the start of summer.
+Dialogue: 0,0:11:15.50,0:11:17.75,Default,,0,0,0,,We have to figure out how to deal\Nwith all the food I bought to stock up.
+Dialogue: 0,0:11:17.91,0:11:19.58,Default,,0,0,0,,We cannot let any of it go to waste!
+Dialogue: 0,0:11:19.58,0:11:22.91,Default,,0,0,0,,I'm going to start cooking all of it right now\Nand we'll eat it all by tomorrow! Let's speed eat!
+Dialogue: 0,0:11:22.91,0:11:23.58,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:11:23.83,0:11:26.29,Default,,0,0,0,,I'm already full to the point that I wasn't\Ngoing to eat breakfast tomorrow!
+Dialogue: 0,0:11:26.45,0:11:30.54,Default,,0,0,0,,By the way, it took all of our money to buy a new fridge\Nso make sure you stuff yourselves before we fast!
+Dialogue: 0,0:11:30.54,0:11:32.33,Default,,0,0,0,,That's not how humans work, you know!
+Dialogue: 0,0:11:32.33,0:11:33.45,Default,,0,0,0,,Time to get cooking!
+Dialogue: 0,0:11:37.29,0:11:39.37,Default,,0,0,0,,What's up? Why did you come in the rain?
+Dialogue: 0,0:11:39.37,0:11:42.00,Default,,0,0,0,,To do reconnaissance on my enemy.\NHow are you feeling?
+Dialogue: 0,0:11:42.00,0:11:45.54,Default,,0,0,0,,I still have a fever, but I think\NI should be back at school by next week.
+Dialogue: 0,0:11:45.75,0:11:46.45,Default,,0,0,0,,What's that?
+Dialogue: 0,0:11:46.66,0:11:51.33,Default,,0,0,0,,I came to invade your big, fancy refrigerator\Nand lay claim to some of it with our Demon delicacies.
+Dialogue: 0,0:11:51.33,0:11:52.41,Default,,0,0,0,,Does that mean you're sharing your food?
+Dialogue: 0,0:11:52.41,0:11:53.54,Default,,0,0,0,,That's another way you could put it!
+Dialogue: 0,0:11:53.75,0:11:55.54,Default,,0,0,0,,The bag is filled with a bunch of smaller side dishes.
+Dialogue: 0,0:11:55.54,0:11:58.54,Default,,0,0,0,,And the big box has pork, bean sprout and egg stew.
+Dialogue: 0,0:11:58.54,0:12:00.04,Default,,0,0,0,,There's also some chicken hamburg steak in it, too.
+Dialogue: 0,0:12:00.04,0:12:00.87,Default,,0,0,0,,Wow.
+Dialogue: 0,0:12:00.87,0:12:02.75,Default,,0,0,0,,I helped to make some of it myself.
+Dialogue: 0,0:12:02.75,0:12:05.45,Default,,0,0,0,,If you put them all in the fridge,\Nthey should last for the next two days.
+Dialogue: 0,0:12:05.45,0:12:06.45,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:12:06.45,0:12:09.04,Default,,0,0,0,,I normally don't get to eat stuff like this,\Nso I'm really happy.
+Dialogue: 0,0:12:09.04,0:12:10.00,Default,,0,0,0,,{\an9\pos(1004,26)}Gah...
+Dialogue: 0,0:12:09.37,0:12:12.37,Default,,0,0,0,,D-don't get the wrong idea, Magical Girl!
+Dialogue: 0,0:12:12.37,0:12:17.58,Default,,0,0,0,,All of this nourishing food is just meant to help you\Ncultivate more blood so I can steal it later!
+Dialogue: 0,0:12:17.58,0:12:19.08,Default,,0,0,0,,And, um...
+Dialogue: 0,0:12:19.08,0:12:20.70,Default,,0,0,0,,I can't think of any other reasons!
+Dialogue: 0,0:12:20.91,0:12:22.20,Default,,0,0,0,,Take care of yourself!
+Dialogue: 0,0:12:22.20,0:12:23.50,Default,,0,0,0,,Be careful with all the rain!
+Dialogue: 0,0:12:24.08,0:12:25.33,Default,,0,0,0,,Don't give up, Shamiko!
+Dialogue: 0,0:12:25.45,0:12:28.66,Default,,0,0,0,,Pick up the fight tomorrow and work to put\Nmore delicious food on your dining table!
+Dialogue: 0,0:12:41.20,0:12:42.04,Default,,0,0,0,,Shamiko.
+Dialogue: 0,0:12:42.16,0:12:44.20,Default,,0,0,0,,Momo, you must be over your cold now.
+Dialogue: 0,0:12:44.20,0:12:45.75,Default,,0,0,0,,Yeah. Thanks to you.
+Dialogue: 0,0:12:45.75,0:12:46.50,Default,,0,0,0,,Come with me.
+Dialogue: 0,0:12:46.50,0:12:51.50,Default,,0,0,0,,{\an8}Soring through with pink logic
+Dialogue: 0,0:12:46.83,0:12:48.83,Default,,0,0,0,,Bean sprouts and pork sure are yummy, huh?
+Dialogue: 0,0:12:49.00,0:12:51.25,Default,,0,0,0,,I also recommend cabbage and pork together.
+Dialogue: 0,0:12:51.83,0:12:53.45,Default,,0,0,0,,Shamiko, raise your arms up.
+Dialogue: 0,0:12:53.45,0:12:54.45,Default,,0,0,0,,Huh? What for?
+Dialogue: 0,0:12:56.20,0:12:56.95,Default,,0,0,0,,Wha-?
+Dialogue: 0,0:12:57.54,0:12:59.00,Default,,0,0,0,,Okay, let's start your training!
+Dialogue: 0,0:12:59.00,0:13:00.83,Default,,0,0,0,,Training?! Huh?! What is all this?!
+Dialogue: 0,0:13:01.12,0:13:05.00,Default,,0,0,0,,This is a tire designed for large vehicles\Nthat carry heavy things like in mines and...
+Dialogue: 0,0:13:05.00,0:13:07.20,Default,,0,0,0,,I'm not asking you to explain what type of tire it is!
+Dialogue: 0,0:13:07.20,0:13:08.29,Default,,0,0,0,,It won't come off!
+Dialogue: 0,0:13:08.79,0:13:10.41,Default,,0,0,0,,What do you mean by "training"?
+Dialogue: 0,0:13:10.62,0:13:12.41,Default,,0,0,0,,I explained it to you before, remember?
+Dialogue: 0,0:13:12.41,0:13:14.95,Default,,0,0,0,,I want you to help me keep the city safe.
+Dialogue: 0,0:13:14.95,0:13:18.50,Default,,0,0,0,,Because you took some of my blood,\Nthe strength of my magic has fallen drastically.
+Dialogue: 0,0:13:19.04,0:13:19.70,Default,,0,0,0,,Right...
+Dialogue: 0,0:13:19.70,0:13:22.16,Default,,0,0,0,,That's why I need you to become stronger.
+Dialogue: 0,0:13:22.16,0:13:23.41,Default,,0,0,0,,I understand that.
+Dialogue: 0,0:13:23.41,0:13:25.87,Default,,0,0,0,,Which is exactly why I made sure to get a really big tire!
+Dialogue: 0,0:13:25.87,0:13:27.50,Default,,0,0,0,,THAT'S WHERE YOU START TO LOSE ME!
+Dialogue: 0,0:13:27.62,0:13:30.54,Default,,0,0,0,,Hm... how can I best explain it to you?
+Dialogue: 0,0:13:30.66,0:13:34.00,Default,,0,0,0,,Do you understand why I'm strong enough\Nto stop a dump trunk with only one hand?
+Dialogue: 0,0:13:34.00,0:13:35.66,Default,,0,0,0,,Because you have the spirit\Nand muscle necessary to do so.
+Dialogue: 0,0:13:35.66,0:13:36.79,Default,,0,0,0,,That's not it.
+Dialogue: 0,0:13:37.62,0:13:41.04,Default,,0,0,0,,The moment that Magical Girls\Nmake a contract with the Light Clan,
+Dialogue: 0,0:13:41.04,0:13:43.12,Default,,0,0,0,,their bodies get pretty much entirely reformatted
+Dialogue: 0,0:13:43.12,0:13:45.91,Default,,0,0,0,,and they become an ether\Nof incredibly high-density magic.
+Dialogue: 0,0:13:45.91,0:13:49.70,Default,,0,0,0,,Thus, the reason I can do stuff like this isn't because\Nof my muscle, but because of the magic within me.
+Dialogue: 0,0:13:49.70,0:13:52.54,Default,,0,0,0,,But I thought that you lost a bunch of your magic power?
+Dialogue: 0,0:13:52.54,0:13:55.25,Default,,0,0,0,,Right now, I'm basically making up for that\Nwith my spirit and muscle.
+Dialogue: 0,0:13:55.25,0:13:56.66,Default,,0,0,0,,So it's because of your muscles, like I thought.
+Dialogue: 0,0:13:58.20,0:14:01.70,Default,,0,0,0,,Even if you're not capable of everything that I am,\Nyou still have your own Demon powers.
+Dialogue: 0,0:14:01.70,0:14:03.70,Default,,0,0,0,,You should be able to pull off some similar feats.
+Dialogue: 0,0:14:03.70,0:14:04.33,Default,,0,0,0,,No...
+Dialogue: 0,0:14:04.33,0:14:07.00,Default,,0,0,0,,That's why my goal is to boost your magic.
+Dialogue: 0,0:14:07.00,0:14:10.00,Default,,0,0,0,,Magic is part of your body,\Nyour spirit, your life experiences.
+Dialogue: 0,0:14:10.00,0:14:11.62,Default,,0,0,0,,There are a lot of ways to train to increase it.
+Dialogue: 0,0:14:11.62,0:14:13.58,Default,,0,0,0,,And we're going to start with the easiest,\Nwhich is building muscle.
+Dialogue: 0,0:14:15.79,0:14:18.62,Default,,0,0,0,,And while you're building muscle,\Nyou can build some muscle.
+Dialogue: 0,0:14:18.62,0:14:20.16,Default,,0,0,0,,And top it off with building muscle.
+Dialogue: 0,0:14:20.16,0:14:22.87,Default,,0,0,0,,Th-this is scary. I can't get away because of the tire!
+Dialogue: 0,0:14:22.87,0:14:25.08,Default,,0,0,0,,Also, I forgot to mention this,\Nbut we'll also work to build muscle.
+Dialogue: 0,0:14:25.08,0:14:26.66,Default,,0,0,0,,Forget is the exact opposite of what you did!
+Dialogue: 0,0:14:27.41,0:14:30.37,Default,,0,0,0,,If you ask me, I think you just\Nlove training to build muscle!
+Dialogue: 0,0:14:30.37,0:14:32.25,Default,,0,0,0,,That's not right. I just can't help it.
+Dialogue: 0,0:14:32.25,0:14:33.04,Default,,0,0,0,,Which means you like it!
+Dialogue: 0,0:14:33.83,0:14:38.20,Default,,0,0,0,,From where I stand you seem as strong as ever,\Ndid you really get weaker?
+Dialogue: 0,0:14:38.37,0:14:39.20,Default,,0,0,0,,Yep.
+Dialogue: 0,0:14:39.20,0:14:40.62,Default,,0,0,0,,Also, I can't untie this.
+Dialogue: 0,0:14:40.95,0:14:45.16,Default,,0,0,0,,My maximum supply of magic power dropped, which\Nmeans I can't use any of my most powerful techniques.
+Dialogue: 0,0:14:45.16,0:14:48.33,Default,,0,0,0,,You have a repertoire of powerful techniques?!\NI want to hear all about them!
+Dialogue: 0,0:14:48.66,0:14:51.58,Default,,0,0,0,,Hey, hey! Does this include that\N"Fresh Peach Heart Shower" thing you mentioned?!
+Dialogue: 0,0:14:51.58,0:14:54.87,Default,,0,0,0,,Why did you commit little details like that to memory?\NThat's just a mid-level technique.
+Dialogue: 0,0:14:54.87,0:14:56.41,Default,,0,0,0,,Which means you can still use it even now, right?!
+Dialogue: 0,0:14:56.41,0:14:59.70,Default,,0,0,0,,I want to see it! Get on top of the tire!\NGet up there and use that technique!
+Dialogue: 0,0:14:59.70,0:15:01.66,Default,,0,0,0,,Do it! Go up there and show me!
+Dialogue: 0,0:15:01.66,0:15:02.95,Default,,0,0,0,,I don't want you to see, it's embarrassing.
+Dialogue: 0,0:15:02.95,0:15:04.00,Default,,0,0,0,,WHAAAAT?!
+Dialogue: 0,0:15:04.00,0:15:05.87,Default,,0,0,0,,Huh? What are you two doing over there?
+Dialogue: 0,0:15:06.12,0:15:07.25,Default,,0,0,0,,Oh, it's Anri.
+Dialogue: 0,0:15:07.45,0:15:09.91,Default,,0,0,0,,{\an8}Both Shami-cen's horn and heart seem like they might break in two
+Dialogue: 0,0:15:07.95,0:15:09.91,Default,,0,0,0,,Is "Shamicen" supposed to refer to me?
+Dialogue: 0,0:15:10.83,0:15:13.37,Default,,0,0,0,,Wow, so you're going to be working together then.
+Dialogue: 0,0:15:13.58,0:15:15.66,Default,,0,0,0,,We're not working together.\NWe just declared a cease-fire.
+Dialogue: 0,0:15:15.66,0:15:16.37,Default,,0,0,0,,Indeed.
+Dialogue: 0,0:15:16.37,0:15:19.54,Default,,0,0,0,,You must be really happy\Nthat you're able to talk freely now, Shamicen.
+Dialogue: 0,0:15:19.54,0:15:21.58,Default,,0,0,0,,But you're looking kind of pale in the face. Are you okay?
+Dialogue: 0,0:15:21.58,0:15:23.87,Default,,0,0,0,,Yes... I'm recovering from a hangover\Nfor reasons I won't go into.
+Dialogue: 0,0:15:24.12,0:15:25.91,Default,,0,0,0,,Is "Shamicen" a nickname for her?
+Dialogue: 0,0:15:25.91,0:15:26.70,Default,,0,0,0,,It's adorable.
+Dialogue: 0,0:15:26.70,0:15:29.20,Default,,0,0,0,,"Shamiko's ascendant" put those together\Nand you get Shami-cen!
+Dialogue: 0,0:15:29.37,0:15:31.33,Default,,0,0,0,,Would it be all right if I called you by that name, too?
+Dialogue: 0,0:15:31.33,0:15:34.54,Default,,0,0,0,,I beg you... can you at least be the one\Nwho shows me some actual respect?
+Dialogue: 0,0:15:34.79,0:15:36.16,Default,,0,0,0,,I see how it is.
+Dialogue: 0,0:15:36.16,0:15:38.62,Default,,0,0,0,,You're training muscle so that\Nyou can build up your magic power.
+Dialogue: 0,0:15:38.62,0:15:40.00,Default,,0,0,0,,But listen, Momochiyo.
+Dialogue: 0,0:15:40.00,0:15:43.12,Default,,0,0,0,,As a rule of thumb, humans don't pull tires\Nthat are designed for mining vehicles.
+Dialogue: 0,0:15:43.12,0:15:44.04,Default,,0,0,0,,Nod, nod.
+Dialogue: 0,0:15:44.04,0:15:45.58,Default,,0,0,0,,Oh, I see.
+Dialogue: 0,0:15:45.58,0:15:46.41,Default,,0,0,0,,That makes sense.
+Dialogue: 0,0:15:46.41,0:15:50.08,Default,,0,0,0,,I hadn't put any consideration into Shamiko's unique trait\Nof being unable to carry heavy things.
+Dialogue: 0,0:15:50.08,0:15:53.79,Default,,0,0,0,,Right, right. But in this case, that's not unique\Nto Shamiko and applies to all of humanity.
+Dialogue: 0,0:15:53.79,0:15:56.70,Default,,0,0,0,,For now, I think it would be good for her to start with\Nsomething that weighs about as much as Shami-cen.
+Dialogue: 0,0:15:56.70,0:15:57.41,Default,,0,0,0,,Ancestor!
+Dialogue: 0,0:15:59.16,0:16:01.62,Default,,0,0,0,,Having Shamiko start with this giant tire\Nis making the hurdle too high.
+Dialogue: 0,0:16:01.62,0:16:03.70,Default,,0,0,0,,What if you started her out\Nwith something more lightweight first?
+Dialogue: 0,0:16:03.70,0:16:04.33,Default,,0,0,0,,That makes sense.
+Dialogue: 0,0:16:04.83,0:16:08.29,Default,,0,0,0,,Thank heavens, I'm saved. I can't tell you how happy I am\Nto have you as a friend, Anri.
+Dialogue: 0,0:16:09.37,0:16:13.12,Default,,0,0,0,,Also, hey... when it comes to Shamiko, she's pretty timid\Nabout a lot of things. She's mentally weak and fragile.
+Dialogue: 0,0:16:13.12,0:16:15.41,Default,,0,0,0,,Don't you think it would be good to train her\Nhow to be more courageous and gutsier?
+Dialogue: 0,0:16:15.41,0:16:16.12,Default,,0,0,0,,That makes sense!
+Dialogue: 0,0:16:16.12,0:16:18.08,Default,,0,0,0,,Like going bungie jumping, or standing under a waterfall.
+Dialogue: 0,0:16:18.08,0:16:18.45,Default,,0,0,0,,Huh?
+Dialogue: 0,0:16:18.45,0:16:19.75,Default,,0,0,0,,That makes sense. Got anything else?
+Dialogue: 0,0:16:19.75,0:16:22.04,Default,,0,0,0,,Spending the night in an abandoned\Nand possibly haunted hotel?
+Dialogue: 0,0:16:22.04,0:16:25.12,Default,,0,0,0,,Forget it! Don't listen to any more of Anri's advice!
+Dialogue: 0,0:16:27.66,0:16:28.58,Default,,0,0,0,,Later!
+Dialogue: 0,0:16:28.58,0:16:29.54,Default,,0,0,0,,Bye-bye.
+Dialogue: 0,0:16:29.66,0:16:30.50,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:16:30.50,0:16:31.66,Default,,0,0,0,,Oh, that's right.
+Dialogue: 0,0:16:31.66,0:16:33.79,Default,,0,0,0,,I have a job that might be the perfect fit for you, Shamiko!
+Dialogue: 0,0:16:33.79,0:16:35.62,Default,,0,0,0,,I'll give you the details some other time!
+Dialogue: 0,0:16:35.62,0:16:36.41,Default,,0,0,0,,See ya!
+Dialogue: 0,0:16:36.87,0:16:39.20,Default,,0,0,0,,She had a lot of great ideas\Nthat I never would have thought of.
+Dialogue: 0,0:16:39.20,0:16:41.41,Default,,0,0,0,,Good grief. I never know if she's a friend or foe.
+Dialogue: 0,0:16:42.50,0:16:44.83,Default,,0,0,0,,Tell me, what is the one thing that you're most afraid of?
+Dialogue: 0,0:16:44.83,0:16:46.91,Default,,0,0,0,,Do you really think I'm going to tell you after all that?
+Dialogue: 0,0:16:47.37,0:16:52.70,Default,,0,0,0,,If you want to protect the city, then don't you think\NYOU should be working hard to regain your magic?
+Dialogue: 0,0:16:53.33,0:16:56.33,Default,,0,0,0,,I promise I'll do my best,\Nso you tell me what YOU'RE most afraid of.
+Dialogue: 0,0:16:56.33,0:16:59.70,Default,,0,0,0,,I took your magic so I don't have a choice,\Nbut we're still in this together.
+Dialogue: 0,0:16:59.70,0:17:03.04,Default,,0,0,0,,"In it together"? I hadn't thought about it like that.
+Dialogue: 0,0:17:03.04,0:17:05.16,Default,,0,0,0,,I see. You have a point.
+Dialogue: 0,0:17:05.16,0:17:08.04,Default,,0,0,0,,Something I'm afraid of... something scary...
+Dialogue: 0,0:17:09.08,0:17:10.66,Default,,0,0,0,,I'm scared of stuffed mochi balls.
+Dialogue: 0,0:17:11.16,0:17:12.00,Default,,0,0,0,,What...?
+Dialogue: 0,0:17:12.08,0:17:14.04,Default,,0,0,0,,I'm not talking about the plain ones, either.
+Dialogue: 0,0:17:14.04,0:17:16.75,Default,,0,0,0,,There's a particular shop in the Tama Sakura\Nshopping district that sells these.
+Dialogue: 0,0:17:16.75,0:17:18.45,Default,,0,0,0,,They're strawberry stuffed mochi balls.
+Dialogue: 0,0:17:18.45,0:17:21.58,Default,,0,0,0,,The strawberry is abnormally large and the mochi skin\Nis super thin so you can see the red paste inside
+Dialogue: 0,0:17:21.58,0:17:24.16,Default,,0,0,0,,which gives it a really unsettling appearance.
+Dialogue: 0,0:17:24.04,0:17:27.16,Default,,0,0,0,,{\an7}Size Comparison
+Dialogue: 0,0:17:24.16,0:17:27.16,Default,,0,0,0,,Plus it's even got a rich cream inside\Nthat makes it the absolute peak of decadence.
+Dialogue: 0,0:17:27.45,0:17:29.29,Default,,0,0,0,,I haven't eaten one for years.
+Dialogue: 0,0:17:29.29,0:17:30.16,Default,,0,0,0,,Here, take my purse.
+Dialogue: 0,0:17:30.87,0:17:32.50,Default,,0,0,0,,Okay, let's start by conquering that!
+Dialogue: 0,0:17:32.70,0:17:35.79,Default,,0,0,0,,Quiver in fear, Magical Girl!
+Dialogue: 0,0:17:35.79,0:17:37.12,Default,,0,0,0,,Heh, heh, heh, triple heh.
+Dialogue: 0,0:17:37.12,0:17:40.58,Default,,0,0,0,,Their evening stock\Nusually sells out really fast, so run for it!
+Dialogue: 0,0:17:40.79,0:17:41.83,Default,,0,0,0,,Roger!
+Dialogue: 0,0:17:42.08,0:17:43.87,Default,,0,0,0,,If you can manage it, try and buy two!
+Dialogue: 0,0:17:46.33,0:17:49.20,Default,,0,0,0,,Just take a look! The thin mochi\Ncovering the dark red bean paste!
+Dialogue: 0,0:17:49.20,0:17:52.75,Default,,0,0,0,,I ran really fast and had to wait in line,\Nbut I managed to get two!
+Dialogue: 0,0:17:52.75,0:17:55.41,Default,,0,0,0,,Now, quiver in fear! Embrace the absolute terror!\NCome on, come on!
+Dialogue: 0,0:17:55.62,0:17:58.16,Default,,0,0,0,,Are you shaking in your boots yet, Magical Girl?
+Dialogue: 0,0:17:58.16,0:17:59.75,Default,,0,0,0,,Ha, ha, ha!
+Dialogue: 0,0:17:58.41,0:18:01.70,Default,,0,0,0,,{\an8}HA\N{\an9}HA\N{\an9}HA
+Dialogue: 0,0:18:02.54,0:18:03.41,Default,,0,0,0,,{\an9}HA\N{\an9}HA\N{\an9}HA
+Dialogue: 0,0:18:02.70,0:18:04.29,Default,,0,0,0,,Ha, ha... Huh?
+Dialogue: 0,0:18:04.54,0:18:05.79,Default,,0,0,0,,Momo?
+Dialogue: 0,0:18:05.79,0:18:07.95,Default,,0,0,0,,Here. One of them is for you, Shamiko.
+Dialogue: 0,0:18:08.08,0:18:08.79,Default,,0,0,0,,Huh?
+Dialogue: 0,0:18:10.50,0:18:11.37,Default,,0,0,0,,Huh?
+Dialogue: 0,0:18:11.62,0:18:14.08,Default,,0,0,0,,You ran really far and fast to go and get them, right?
+Dialogue: 0,0:18:14.08,0:18:16.16,Default,,0,0,0,,Having a bit of a sugary snack\Nafter a workout is extra delicious.
+Dialogue: 0,0:18:16.41,0:18:19.91,Default,,0,0,0,,Nice running out there. These mochi balls\Nare the tastiest when you eat them fresh.
+Dialogue: 0,0:18:20.66,0:18:22.20,Default,,0,0,0,,You tricked me into all this, didn't you?!
+Dialogue: 0,0:18:22.20,0:18:23.62,Default,,0,0,0,,Dizzy-wizzy...
+Dialogue: 0,0:18:24.16,0:18:26.33,Default,,0,0,0,,Sh-she pulled one over on me.
+Dialogue: 0,0:18:26.33,0:18:27.79,Default,,0,0,0,,Don't think this means you've...
+Dialogue: 0,0:18:29.41,0:18:30.41,Default,,0,0,0,,{\an8}JUMP
+Dialogue: 0,0:18:29.87,0:18:31.16,Default,,0,0,0,,It's super yummy!
+Dialogue: 0,0:18:31.29,0:18:32.58,Default,,0,0,0,,Yum, yum.
+Dialogue: 0,0:18:33.41,0:18:36.08,Default,,0,0,0,,I didn't lie about not being able\Nto handle these mochi balls.
+Dialogue: 0,0:18:36.41,0:18:37.33,Default,,0,0,0,,Huh?
+Dialogue: 0,0:18:37.66,0:18:41.20,Default,,0,0,0,,Because they make me remember the past.\NThat's why I've avoided eating them for years.
+Dialogue: 0,0:18:43.12,0:18:45.58,Default,,0,0,0,,My sister used to love the sweets from that shop.
+Dialogue: 0,0:18:46.12,0:18:48.70,Default,,0,0,0,,Do you... have a sister?
+Dialogue: 0,0:18:48.70,0:18:51.58,Default,,0,0,0,,Yeah. We're not blood-related though.
+Dialogue: 0,0:18:51.83,0:18:53.37,Default,,0,0,0,,I don't have any family...
+Dialogue: 0,0:18:53.66,0:18:57.83,Default,,0,0,0,,Since you're doing your best to train,\NI've decided to face the things I'm bad at.
+Dialogue: 0,0:18:58.58,0:19:00.54,Default,,0,0,0,,I'll learn to embrace my past and everything in it.
+Dialogue: 0,0:19:00.95,0:19:03.54,Default,,0,0,0,,It might help me get my magic back to normal, too.
+Dialogue: 0,0:19:04.87,0:19:05.91,Default,,0,0,0,,I'll take a seat and eat.
+Dialogue: 0,0:19:05.91,0:19:07.12,Default,,0,0,0,,Uh, fer sure!
+Dialogue: 0,0:19:07.37,0:19:10.79,Default,,0,0,0,,Gah, she caught me off guard\Nso my reply came out all weird.
+Dialogue: 0,0:19:10.79,0:19:12.29,Default,,0,0,0,,I'm just gonna eat the darn thing!
+Dialogue: 0,0:19:12.29,0:19:13.08,Default,,0,0,0,,Shamiko.
+Dialogue: 0,0:19:13.08,0:19:13.79,Default,,0,0,0,,Huh?
+Dialogue: 0,0:19:13.79,0:19:16.20,Default,,0,0,0,,I'm sorry for forcing you to help me out.
+Dialogue: 0,0:19:16.20,0:19:17.83,Default,,0,0,0,,Why apologize all of a sudden?
+Dialogue: 0,0:19:18.37,0:19:18.66,Default,,0,0,0,,{\an7}Chew
+Dialogue: 0,0:19:18.66,0:19:19.29,Default,,0,0,0,,{\an7}Chew
+Dialogue: 0,0:19:19.29,0:19:19.91,Default,,0,0,0,,{\an7}Chew
+Dialogue: 0,0:19:19.91,0:19:20.54,Default,,0,0,0,,{\an7}Chew
+Dialogue: 0,0:19:20.54,0:19:21.16,Default,,0,0,0,,{\an7}Chew
+Dialogue: 0,0:19:23.62,0:19:25.45,Default,,0,0,0,,If you feel bad about it,
+Dialogue: 0,0:19:25.70,0:19:28.04,Default,,0,0,0,,then you should tell me something\Nyou're actually scared of next time.
+Dialogue: 0,0:19:28.12,0:19:28.79,Default,,0,0,0,,{\an8}Chew
+Dialogue: 0,0:19:29.66,0:19:30.83,Default,,0,0,0,,All right.
+Dialogue: 0,0:19:31.37,0:19:32.12,Default,,0,0,0,,Then...
+Dialogue: 0,0:19:32.33,0:19:35.75,Default,,0,0,0,,I'm scared of drinking cold tea\Ntogether with you, Shamiko.
+Dialogue: 0,0:19:35.75,0:19:36.87,Default,,0,0,0,,Roger that!
+Dialogue: 0,0:19:40.00,0:19:41.91,Default,,0,0,0,,But you're not going to trick me a third time!
+Dialogue: 0,0:19:41.91,0:19:43.29,Default,,0,0,0,,That was fast.
+Dialogue: 0,0:19:43.58,0:19:44.83,Default,,0,0,0,,You owe me a dollar!
+Dialogue: 0,0:19:45.20,0:19:48.70,Default,,0,0,0,,Please Shamiko... offer me some cold tea, too...
+Dialogue: 0,0:19:52.54,0:19:54.54,Default,,0,0,0,,So, are we about wrapped up for today?
+Dialogue: 0,0:19:54.54,0:19:56.58,Default,,0,0,0,,Huh? I'd say we're just getting started, don't you?
+Dialogue: 0,0:19:56.58,0:19:57.08,Default,,0,0,0,,Huh?
+Dialogue: 0,0:19:58.00,0:20:00.12,Default,,0,0,0,,Do you have a curfew, Shamiko?
+Dialogue: 0,0:20:00.12,0:20:02.58,Default,,0,0,0,,Let's start with some stretches and squats.
+Dialogue: 0,0:20:02.75,0:20:04.95,Default,,0,0,0,,I thought we were putting the muscle building on hold...
+Dialogue: 0,0:20:05.16,0:20:09.37,Default,,0,0,0,,It's totally ineffective if you only train your mental muscles\Nwithout training your muscle muscles.
+Dialogue: 0,0:20:08.41,0:20:09.37,Default,,0,0,0,,{\an8}Muscle muscles?
+Dialogue: 0,0:20:09.50,0:20:13.20,Default,,0,0,0,,There are a wide variety of methods to build muscle\Nwithout having to carry anything heavy, you know!
+Dialogue: 0,0:20:13.50,0:20:15.58,Default,,0,0,0,,Momo, you're terrifying me!
+Dialogue: 0,0:20:16.16,0:20:18.37,Default,,0,0,0,,Twenty-six.
+Dialogue: 0,0:20:16.87,0:20:17.83,Default,,0,0,0,,{\an8\pos(620,420)}Twenty-six
+Dialogue: 0,0:20:18.37,0:20:20.54,Default,,0,0,0,,Twenty-seven.
+Dialogue: 0,0:20:19.04,0:20:20.12,Default,,0,0,0,,{\an8\pos(640,478)}Twenty-seven
+Dialogue: 0,0:20:21.00,0:20:23.41,Default,,0,0,0,,I'll let you go home once you're able to move the tire.
+Dialogue: 0,0:20:23.87,0:20:25.79,Default,,0,0,0,,Twenty-eight.
+Dialogue: 0,0:20:26.04,0:20:30.62,Default,,0,0,0,,{\an8}Twenty-nine... Twenty-nine point five...
+Dialogue: 0,0:20:26.04,0:20:31.66,Default,,0,0,0,,Don't give up, Shamiko! Train both your body and mind\Nto overcome all the things that scare you!
+Dialogue: 0,0:20:30.62,0:20:32.29,Default,,0,0,0,,{\an8}Why aren't you going up to thirty?!
+Dialogue: 0,0:20:32.75,0:20:34.16,Default,,0,0,0,,{\an8}Sunday Morn
+Dialogue: 0,0:20:32.87,0:20:34.12,Default,,0,0,0,,Yo, Shamiko!
+Dialogue: 0,0:20:34.29,0:20:37.41,Default,,0,0,0,,About that job I mentioned to you before,\Ncan you make it today?
+Dialogue: 0,0:20:37.41,0:20:38.62,Default,,0,0,0,,Another job, huh?
+Dialogue: 0,0:20:38.62,0:20:41.37,Default,,0,0,0,,{\an8}EVENT: Meet & Greet\N{\an8}with Miss Tama Sakura
+Dialogue: 0,0:20:39.04,0:20:41.33,Default,,0,0,0,,This is such a huge help!
+Dialogue: 0,0:20:41.41,0:20:44.58,Default,,0,0,0,,{\an8}Shamiko! Hey girl! Long time, no see!
+Dialogue: 0,0:20:41.41,0:20:44.87,Default,,0,0,0,,The person who was originally supposed to do it\Nsuddenly strained their back, so we were in trouble.
+Dialogue: 0,0:20:44.58,0:20:46.62,Default,,0,0,0,,{\an8}Come and sell wieners again sometime.
+Dialogue: 0,0:20:44.87,0:20:50.54,Default,,0,0,0,,I don't know if I'm really cut out to handle such\Nan important role as the person inside the mascot...
+Dialogue: 0,0:20:50.54,0:20:52.70,Default,,0,0,0,,You're the only one we can count on, Shamiko!
+Dialogue: 0,0:20:52.70,0:20:53.83,Default,,0,0,0,,R-really?
+Dialogue: 0,0:20:53.83,0:20:55.62,Default,,0,0,0,,Really! We need someone lit-
+Dialogue: 0,0:20:55.62,0:20:58.37,Default,,0,0,0,,I mean someone with a compact form\Nchosen by God for this important duty!
+Dialogue: 0,0:20:58.50,0:21:00.58,Default,,0,0,0,,You were looking for someone little, I get it.
+Dialogue: 0,0:21:00.58,0:21:11.58,Default,,0,0,0,,{\an8\pos(968,42)}Miss Tama Sakura
+Dialogue: 0,0:21:00.75,0:21:03.45,Default,,0,0,0,,A fairy born from within an ancient cherry blossom tree.
+Dialogue: 0,0:21:02.50,0:21:04.91,Default,,0,0,0,,{\an8\pos(474,194)}A fairy born from within an ancient cherry blossom tree
+Dialogue: 0,0:21:03.45,0:21:05.41,Default,,0,0,0,,Specialty: Backflipping Piping Hot Oden Soup.
+Dialogue: 0,0:21:04.91,0:21:06.95,Default,,0,0,0,,{\an8\pos(450,496)}Specialty: Backflipping Piping Hot Oden Soup
+Dialogue: 0,0:21:05.41,0:21:08.66,Default,,0,0,0,,It can produce an unlimited supply\Nof highly-addictive candy from its oversized teacup
+Dialogue: 0,0:21:06.95,0:21:10.29,Default,,0,0,0,,{\an7\pos(86,268)}It can produce an unlimited supply of highly-addictive candy\N{\an8}from its oversized teacup to brainwash children
+Dialogue: 0,0:21:08.66,0:21:10.25,Default,,0,0,0,,and use it to brainwash children.
+Dialogue: 0,0:21:10.25,0:21:11.87,Default,,0,0,0,,"Highly-addictive candy"?!
+Dialogue: 0,0:21:12.41,0:21:15.29,Default,,0,0,0,,Even if you don't move around much,\Nit's a pretty labor-intensive job.
+Dialogue: 0,0:21:15.45,0:21:19.00,Default,,0,0,0,,Come to the changing room every 20 or 30 minutes\Nto take a break and drink water.
+Dialogue: 0,0:21:19.16,0:21:21.87,Default,,0,0,0,,Ugh, this thing is pretty heavy and really hot.
+Dialogue: 0,0:21:22.00,0:21:23.04,Default,,0,0,0,,I wanna see the backflip!
+Dialogue: 0,0:21:23.04,0:21:25.20,Default,,0,0,0,,Give us some of that super tasty candy!
+Dialogue: 0,0:21:25.20,0:21:27.58,Default,,0,0,0,,{\an8}Is it true that you're really good at using nunchucks?
+Dialogue: 0,0:21:25.70,0:21:27.58,Default,,0,0,0,,This mascot is pretty well-known in town!
+Dialogue: 0,0:21:27.58,0:21:29.33,Default,,0,0,0,,Do that move where you climb the wall\Nwith a ninja dagger!
+Dialogue: 0,0:21:29.33,0:21:30.62,Default,,0,0,0,,Candy... please, the candy!
+Dialogue: 0,0:21:30.62,0:21:32.20,Default,,0,0,0,,They really laid it on thick with the character quirks!
+Dialogue: 0,0:21:32.20,0:21:34.95,Default,,0,0,0,,Aren't you going to do the backflip\Ninto the piping hot oden soup?!
+Dialogue: 0,0:21:35.29,0:21:37.83,Default,,0,0,0,,Is that really something\NMiss Tama Sakura normally does?!
+Dialogue: 0,0:21:35.29,0:21:37.83,Default,,0,0,0,,{\an8}Candy! Use your ninja dagger! Candy! Give us the candy!
+Dialogue: 0,0:21:38.12,0:21:41.33,Default,,0,0,0,,I-I'll admit it's a little fun to be this popular with little kids,
+Dialogue: 0,0:21:41.33,0:21:43.70,Default,,0,0,0,,but just passing out the fliers and candy\Nis causing more than enough chaos!
+Dialogue: 0,0:21:44.41,0:21:45.41,Default,,0,0,0,,Be careful!
+Dialogue: 0,0:21:46.37,0:21:47.54,Default,,0,0,0,,Are you all right?
+Dialogue: 0,0:21:47.54,0:21:49.58,Default,,0,0,0,,You really surprised me\Nby nearly falling back into the fountain like that.
+Dialogue: 0,0:21:49.58,0:21:50.50,Default,,0,0,0,,Huh? Whose voice is that?
+Dialogue: 0,0:21:50.50,0:21:51.87,Default,,0,0,0,,I can't see anything!
+Dialogue: 0,0:21:51.87,0:21:53.95,Default,,0,0,0,,Come now children, can't you see\Nthe nice kitty is having trouble?
+Dialogue: 0,0:21:53.95,0:21:55.41,Default,,0,0,0,,Be good and make an orderly line.
+Dialogue: 0,0:21:55.41,0:21:56.29,Default,,0,0,0,,Who is that?
+Dialogue: 0,0:21:56.29,0:21:58.91,Default,,0,0,0,,Are you okay? Your head is a little off center.
+Dialogue: 0,0:21:58.91,0:22:00.37,Default,,0,0,0,,I'll help you out, so let's get it back to normal.
+Dialogue: 0,0:22:00.37,0:22:01.58,Default,,0,0,0,,Thank you very much.
+Dialogue: 0,0:22:06.25,0:22:09.50,Default,,0,0,0,,If they pick up on it, some really weird people\Nmight start coming around here.
+Dialogue: 0,0:22:09.75,0:22:14.50,Default,,0,0,0,,In the worst-case scenario, you, your family and all\Nthe Demons that live here might end up being hunted.
+Dialogue: 0,0:22:14.79,0:22:16.25,Default,,0,0,0,,Can you see properly now?
+Dialogue: 0,0:22:16.25,0:22:16.83,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:22:17.00,0:22:19.41,Default,,0,0,0,,I can see some clothes indicative of someone\NI really don't want to see!
+Dialogue: 0,0:22:22.45,0:22:33.95,Default,,0,0,0,,{\an8}The Demon Girl Next Door
+Dialogue: 0,0:22:39.83,0:22:41.20,Default,,0,0,0,,Sassouto shobu shite
+Dialogue: 0,0:22:41.20,0:22:42.75,Default,,0,0,0,,Yatchau kedo makechatte
+Dialogue: 0,0:22:42.75,0:22:43.95,Default,,0,0,0,,Fugainai nai ne
+Dialogue: 0,0:22:43.95,0:22:45.50,Default,,0,0,0,,Shoushin tenshin
+Dialogue: 0,0:22:45.58,0:22:46.91,Default,,0,0,0,,Kibun wa sunsun demo
+Dialogue: 0,0:22:46.91,0:22:48.58,Default,,0,0,0,,Shippo de henji shiyou
+Dialogue: 0,0:22:51.16,0:22:52.37,Default,,0,0,0,,Chounai de waiwai shite
+Dialogue: 0,0:22:52.45,0:22:53.95,Default,,0,0,0,,Inu made bow-wow de
+Dialogue: 0,0:22:53.95,0:22:55.25,Default,,0,0,0,,Tende meimei de
+Dialogue: 0,0:22:55.25,0:22:56.70,Default,,0,0,0,,Shunka shuutou
+Dialogue: 0,0:22:56.70,0:23:00.00,Default,,0,0,0,,Shippai shita tte waraitobasou
+Dialogue: 0,0:23:00.16,0:23:06.50,Default,,0,0,0,,Ano koro to onaji you ni kokoro tsumuide
+Dialogue: 0,0:23:06.91,0:23:12.33,Default,,0,0,0,,Kono machi de deaeta kiseki
+Dialogue: 0,0:23:18.00,0:23:19.08,Default,,0,0,0,,Kanaete yo
+Dialogue: 0,0:23:19.08,0:23:21.87,Default,,0,0,0,,Zenkai da wa tire shou ippai
+Dialogue: 0,0:23:21.87,0:23:24.66,Default,,0,0,0,,Warning mada kikikanri enjoy
+Dialogue: 0,0:23:24.66,0:23:30.20,Default,,0,0,0,,Toridori saita iro canvas kakenuke
+Dialogue: 0,0:23:30.20,0:23:33.08,Default,,0,0,0,,Sunset da wa, kangaete bakari ja
+Dialogue: 0,0:23:33.08,0:23:35.33,Default,,0,0,0,,Sou, mae!
+Dialogue: 0,0:23:35.50,0:23:40.08,Default,,0,0,0,,Hora, donna iro datte yume kasanete
+Dialogue: 0,0:23:40.20,0:23:41.87,Default,,0,0,0,,Motto asobou ne
+Dialogue: 0,0:23:50.95,0:24:06.00,Default,,0,0,0,,{\pos(170,44)}Preview
+Dialogue: 0,0:23:51.29,0:23:54.50,Default,,0,0,0,,Wha-wha-what? Now there's Magical Girls\Nstarting to pop up everywhere!
+Dialogue: 0,0:23:54.50,0:23:56.25,Default,,0,0,0,,It's okay, I called her here.
+Dialogue: 0,0:23:56.25,0:23:57.83,Default,,0,0,0,,I don't know what you mean by things being "okay"?!
+Dialogue: 0,0:23:57.83,0:24:00.66,Default,,0,0,0,,Hold on a second, I think I should\Nintroduce myself properly first.
+Dialogue: 0,0:24:00.66,0:24:02.79,Default,,0,0,0,,Don't bother, the viewers will get all they need to know\Nin the next episode.
+Dialogue: 0,0:24:02.79,0:24:06.00,Default,,0,0,0,,{\an8\pos(686,558)}The Cursed fruit!! Beware the Sour Mikan!!
+Dialogue: 0,0:24:02.79,0:24:03.58,Default,,0,0,0,,Huh?
+Dialogue: 0,0:24:03.58,0:24:04.70,Default,,0,0,0,,You really surprised me
+Dialogue: 0,0:24:04.70,0:24:06.00,Default,,0,0,0,,by showing up already transformed!
