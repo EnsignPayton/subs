@@ -10,21 +10,20 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: 720.mp4
-Video File: 720.mp4
+Audio File: ../Machikado Mazoku 01.mp4
+Video File: ../Machikado Mazoku 01.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Scroll Position: 468
 Active Line: 475
-Video Position: 28541
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
 
 [Events]
-Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:07.08,0:00:08.83,Default,,0,0,0,,I had a dream...
 Dialogue: 0,0:00:13.66,0:00:15.12,Default,,0,0,0,,Yuko.
 Dialogue: 0,0:00:20.75,0:00:22.70,Default,,0,0,0,,Heed me, Yuko.
